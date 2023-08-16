@@ -29,7 +29,7 @@ def response(message, chat_hitory):
 
   response = aimsg.content
 
-  print(response)
+  #print(response)
 
   bot_message = aimsg.content
   chat_hitory.append((message, bot_message))
