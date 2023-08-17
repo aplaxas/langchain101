@@ -1,0 +1,2965 @@
+  
+
+Service Tag Lookup 
+
+GL 
+
+cn0ydngmbdhnv25v2582 
+
+  
+
+If you are facing issues with entitlements or service tag components, try the alternate app Asset search https://quality.dell.com/Asset/cn0ydngmbdhnv25v2582 
+
+  
+
+J62F1V3 From PPID: cn0ydngmbdhnv25v2582 
+
+Product:    PANTHER 
+
+PRECISION 7865 TOWER 
+
+PANTHERCTO 
+
+Ship Date:    1/13/2023 
+
+Order #:    596969343 
+
+Customer:    530016481451 
+
+UTSI COMPUTER SERVICES 
+
+Customer BU:    United States (11) 
+
+Account:     
+
+Delta:     
+
+Order BU:    United States (11) 
+
+City:    TULLAHOMA 
+
+Country:    United States 
+
+Tag Life () Click to Toggle -- or -- Drag & Drop to reorder  
+
+Entitlements 0 Click to Toggle -- or -- Drag & Drop to reorder  
+
+Contract    Order Num    BU    Start Date    End Date    Item Num    Description    Entitlement Type    Contract Status 
+
+Call Text 74 Click to Toggle -- or -- Drag & Drop to reorder  
+
+Timestamp    Call Text 
+
+02/07/23 
+
+08:37 PM 
+
+DPS# 437990211 SR# 161815423 CALL# 00T6P00000CCB1NUAW 
+
+SFDC# 161815423 
+
+Chat 
+
+The computer will not boot. 
+
+Next Activity Added to this Call_Text!! 00T6P00000c4h5ZUAQ #BeginSolutionLogging 
+
+start_time_utc: 2023-02-07 20:54:58 | 
+
+session_id: 202cf716-c929-4238-9693-7f6f7b8d0c12 | 
+
+language: en | 
+
+asst_id: J62F1V3 | 
+
+lob_desc: Precision Desktops | 
+
+brand_desc: PRECISION 7865 TOWER | 
+
+BKC status: SA not Active | 
+
+Symptom Description: no post | 
+
+Keywords: no, post | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+Next Best Action Recommendations: 
+
+Follow Guided  
+
+  
+
+Solution: No Post Troubleshooting | 
+
+Feedback: YES | 
+
+Flow Title: T0060 No POST |  
+
+External ID: 12531014 |  
+
+Known Resolution Recommended: 192037,184541 | 
+
+Repeat Contact: Yes | 
+
+end_time_utc: 2023-02-07 21:15:16 | 
+
+#EndSolutionLogging 
+
+                                                     
+
+02/07/23 
+
+08:37 PM 
+
+DPS# 748395927 SR# 161815423 CALL# 00T6P00000CCB1NUAW 
+
+SFDC# 161815423 
+
+Chat 
+
+The computer will not boot. 
+
+Next Activity Added to this Call_Text!! 00T6P00000c4h5ZUAQ #BeginSolutionLogging 
+
+start_time_utc: 2023-02-07 20:54:58 | 
+
+session_id: 202cf716-c929-4238-9693-7f6f7b8d0c12 | 
+
+language: en | 
+
+asst_id: J62F1V3 | 
+
+lob_desc: Precision Desktops | 
+
+brand_desc: PRECISION 7865 TOWER | 
+
+BKC status: SA not Active | 
+
+Symptom Description: no post | 
+
+Keywords: no, post | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+Next Best Action Recommendations: 
+
+Follow Guided  
+
+  
+
+Solution: No Post Troubleshooting | 
+
+Feedback: YES | 
+
+Flow Title: T0060 No POST |  
+
+External ID: 12531014 |  
+
+Known Resolution Recommended: 192037,184541 | 
+
+Repeat Contact: Yes | 
+
+end_time_utc: 2023-02-07 21:15:16 | 
+
+#EndSolutionLogging 
+
+                                                     
+
+02/07/23 
+
+08:37 PM 
+
+DPS# 438942059 SR# 161815423 CALL# 00T6P00000CCB1NUAW 
+
+SFDC# 161815423 
+
+Chat 
+
+The computer will not boot. 
+
+Next Activity Added to this Call_Text!! 00T6P00000c4h5ZUAQ #BeginSolutionLogging 
+
+start_time_utc: 2023-02-07 20:54:58 | 
+
+session_id: 202cf716-c929-4238-9693-7f6f7b8d0c12 | 
+
+language: en | 
+
+asst_id: J62F1V3 | 
+
+lob_desc: Precision Desktops | 
+
+brand_desc: PRECISION 7865 TOWER | 
+
+BKC status: SA not Active | 
+
+Symptom Description: no post | 
+
+Keywords: no, post | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+Next Best Action Recommendations: 
+
+Follow Guided  
+
+  
+
+Solution: No Post Troubleshooting | 
+
+Feedback: YES | 
+
+Flow Title: T0060 No POST |  
+
+External ID: 12531014 |  
+
+Known Resolution Recommended: 192037,184541 | 
+
+Repeat Contact: Yes | 
+
+end_time_utc: 2023-02-07 21:15:16 | 
+
+#EndSolutionLogging 
+
+                                                     
+
+02/07/23 
+
+09:15 PM 
+
+SR# 161815423 CALL# 00T6P00000C4H5ZUAQ 
+
+SFDC# 161815423 
+
+No Contact 
+
+#BeginSolutionLogging 
+
+start_time_utc: 2023-02-07 20:54:58 | 
+
+session_id: 202cf716-c929-4238-9693-7f6f7b8d0c12 | 
+
+language: en | 
+
+asst_id: J62F1V3 | 
+
+lob_desc: Precision Desktops | 
+
+brand_desc: PRECISION 7865 TOWER | 
+
+BKC status: SA not Active | 
+
+Symptom Description: no post | 
+
+Keywords: no, post | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+Next Best Action Recommendations: 
+
+Follow Guided  
+
+  
+
+Solution: No Post Troubleshooting | 
+
+Feedback: YES | 
+
+Flow Title: T0060 No POST |  
+
+External ID: 12531014 |  
+
+Known Resolution Recommended: 192037,184541 | 
+
+Repeat Contact: Yes | 
+
+end_time_utc: 2023-02-07 21:15:16 | 
+
+#EndSolutionLogging 
+
+                                                     
+
+02/07/23 
+
+09:16 PM 
+
+SR# 161815423 CALL# 00T6P00000CVBEQUA0 
+
+SFDC# 161815423 
+
+No Contact 
+
+- Name: Ryan 
+
+-  
+
+  
+
+Service Tag: J62F1V3 
+
+- System Type: PRECISION 7865 
+
+- Session ID: 17043395 
+
+» STAMPS: ; Dell SMART ID passed: technician to verify tag first; VDI; TAT; TARP; JUST GO POLICY 
+
+………………………………………………………………………………………………………… 
+
+» CUSTOMER STATED ISSUE:  
+
+The computer will not boot. 
+
+Ive tried booting normally, nothing worked. The power lights worked, however the numlock light was not working on the keyboard and the monitor would go into standby mode. I tried another monitor and different cables. 
+
+» TECH LOG:  
+
+no physical damage 
+
+cx cannot access DELL EPSA 
+
+caps lock no led 
+
+no power led pattern 
+
+hard reset no go 
+
+BIOS Recovery no go 
+
+RTC reset no go 
+
+remove CRus no go 
+
+replace mobo 
+
+» ORACLE ID:  
+
+- gr 
+
+» DIAGNOSTIC: 
+
+- Tool not needed/Not Possible to Run: 
+
+- Reason: none 
+
+• L2 Gerard Nico Morales APPROVED DPS for Motherboard - replace mobo - Part to replace: Motherboard 
+
+- Additional Parts (VPKRS): none 
+
+- Media Check: Not applicable for this dispatch 
+
+- BTTR: cst anytime 
+
+………………………………………………………………………………………………………… 
+
+- Email Address and Phone Number Obtained and Updated in SR 
+
+                                                     
+
+02/07/23 
+
+09:21 PM 
+
+SR# 161815423 CALL# 00T6P00000CVBREUA0 
+
+SFDC# 161815423 
+
+Customer Outbound 
+
+Additional To: rwinton@utk.edu 
+
+CC:  
+
+BCC:  
+
+Attachment: Subject: Dell Basic Warranty Support | Service case #: 161815423 [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+Body: 
+
+Hello Ryan, 
+
+This is Abel from Dell Hardware Technical Support. I have arranged for an On-Site service for your Dell  system with Service Tag# J62F1V3. Our on-site technician will contact you to schedule appointment to replace the necessary part/s. Depending on parts availability, weather conditions, and shipping cut-offs at 5:00pm your local time, the parts will be delivered via Next Business Day courier. You will be receiving a call from our automated dialing system once our onsite technician receives the part(s). It is best if you leave your phone lines open or check your voice mail from time to time because the technicians will be calling you on their way to your address. 
+
+Your Service case number for this Service tag is 161815423. If you are still encountering the same issue or have any further queries about this case, you can reach us by replying to this email. Please make sure to include the Service Request Number provided when making a follow-up. Thank you for choosing Dell. Kind regards,  
+
+Abel 
+
+Dell Rep ID: 724357 
+
+Dell Hardware Warranty Support 
+
+To get support for your PC, including diagnostic tests, drivers, downloads, how-to articles, videos, FAQs and community forums through Dell’s support page at www.dell.com/support. 
+
+ref:_00D0bGaMp._5006PB7D6w:ref 
+
+                                                     
+
+02/07/23 
+
+09:21 PM 
+
+SR# 161815423 CALL# 00T6P00000C0PKQUAM 
+
+SFDC# 161815423 
+
+Customer Inbound 
+
+TO: technical_support@help.dell.com 
+
+FROM: mailer-daemon@salesforce.com 
+
+SUBJECT: FWD: Undeliverable: Dell Basic Warranty Support | Service case #: 161815423 [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+DATE&TIME: 2023-02-07 21:21:27 
+
+BODY: [EXTERNAL EMAIL] Hello, 
+
+Your email may not have been delivered. See the attached delivery notification. 
+
+Youre getting this message because your organization elected to forward delivery status notifications for emails you send. 
+
+                                                     
+
+02/07/23 
+
+09:21 PM 
+
+SR# 161815423 CALL# 00T6P00000CVBSRUA0 
+
+SFDC# 161815423 
+
+No Contact 
+
+ISSUE: The computer will not boot. 
+
+Ive tried booting normally, nothing worked. The power lights worked, however the numlock light was not working on the keyboard and the monitor would go into standby mode. I tried another monitor and different cables. 
+
+T/S:no physical damage 
+
+cx cannot access DELL EPSA 
+
+caps lock no led 
+
+no power led pattern 
+
+hard reset no go 
+
+BIOS Recovery no go 
+
+RTC reset no go 
+
+remove CRus no go 
+
+replace mobo 
+
+SOL: Replace parts as necessary. Contact DELL if issue persists. 
+
+WITH ALT C 
+
+                                                     
+
+02/07/23 
+
+09:26 PM 
+
+SR# 161815423 CALL# A-4Q9B9S6H 
+
+SFDC# 161815423 
+
+Break Fix 
+
+Customer: NBD | Resolved | For Follow-up | No Post | Neutral | 
+
+                                                     
+
+02/08/23 
+
+07:58 PM 
+
+SR# 161815423 CALL# 00T6P00000CWUNLUAC 
+
+SFDC# 161815423 
+
+No Contact 
+
+DPS 437990211 for monitoring bo 
+
+Backlog ETA for Part# DMYN9: 03/15/2023 
+
+                                                     
+
+02/09/23 
+
+05:44 PM 
+
+SR# 161815423 CALL# 00T6P00000CYAJCUAW 
+
+SFDC# 161815423 
+
+No Contact 
+
+DPS 437990211 
+
+mobo bo for monitoring 
+
+                                                     
+
+02/09/23 
+
+05:54 PM 
+
+SR# 161815423 CALL# 00T6P00000CYAABUA4 
+
+SFDC# 161815423 
+
+Customer Outbound 
+
+Additional To: rwinton@utk.edu 
+
+CC:  
+
+BCC:  
+
+Attachment: Subject: RE: Dell Basic Warranty Support | Service case #: 161815423 [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+Body: 
+
+Hi Ryan This is Abel again from Dell Basic Hardware Warranty, the original owner of your case. 
+
+Regarding our dispatch for the Motherboard replacement under dps:437990211. Unfortunately, the Motherboard part: DMYN9 is currently in back order and the ETA availability is 3/15/2023 
+
+Which is now causing the delay for part replacement. 
+
+Rest assured that  I will monitor this case and will update you if there will be a change on the ETA of the backlog part. Since the Backlog ETA may update or change. 
+
+I would like to apologize for any inconvenience this delay has caused you. 
+
+We’re dedicated to delivering exceptional service to our customers, so please feel free to reply to this email if you have further questions. 
+
+Thank you for being a valued Dell client. 
+
+Abel 
+
+Badge# 724357 
+
+Dell Hardware Support 
+
+--------------- Original Message --------------- 
+
+From: Dell Tech Support [technical_support@help.dell.com] 
+
+Sent: 2/8/2023 5:21 AM 
+
+To: rwinton@utk.edu 
+
+Subject: Dell Basic Warranty Support | Service case #: 161815423 [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+Hello Ryan, 
+
+This is Abel from Dell Hardware Technical Support. I have arranged for an On-Site service for your Dell  system with Service Tag# J62F1V3. Our on-site technician will contact you to schedule appointment to replace the necessary part/s. Depending on parts availability, weather conditions, and shipping cut-offs at 5:00pm your local time, the parts will be delivered via Next Business Day courier. You will be receiving a call from our automated dialing system once our onsite technician receives the part(s). It is best if you leave your phone lines open or check your voice mail from time to time because the technicians will be calling you on their way to your address. 
+
+Your Service case number for this Service tag is 161815423. If you are still encountering the same issue or have any further queries about this case, you can reach us by replying to this email. Please make sure to include the Service Request Number provided when making a follow-up. Thank you for choosing Dell. Kind regards,  
+
+Abel 
+
+Dell Rep ID: 724357 
+
+Dell Hardware Warranty Support 
+
+To get support for your PC, including diagnostic tests, drivers, downloads, how-to articles, videos, FAQs and community forums through Dell’s support page at www.dell.com/support. 
+
+ref:_00D0bGaMp._5006PB7D6w:ref 
+
+                                                     
+
+02/09/23 
+
+05:55 PM 
+
+SR# 161815423 CALL# 00T6P00000CPVCNUAG 
+
+SFDC# 161815423 
+
+Customer Inbound 
+
+TO: technical_support@help.dell.com 
+
+FROM: mailer-daemon@salesforce.com 
+
+SUBJECT: FWD: Undeliverable: RE: Dell Basic Warranty Support | Service case #: 161815423 [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+DATE&TIME: 2023-02-09 17:55:05 
+
+BODY: [EXTERNAL EMAIL] Hello, 
+
+Your email may not have been delivered. See the attached delivery notification. 
+
+Youre getting this message because your organization elected to forward delivery status notifications for emails you send. 
+
+                                                     
+
+02/09/23 
+
+05:56 PM 
+
+SR# 161815423 CALL# 00T6P00000CYATKUAG 
+
+SFDC# 161815423 
+
+No Contact 
+
+receiving bounced emails for call back confirm email add is correct per session 
+
+                                                     
+
+02/10/23 
+
+03:15 AM 
+
+SR# 161815423 CALL# 00T6P00000CSJHHUAO 
+
+SFDC# 161815423 
+
+No Contact 
+
+Distress case | Backlog ETA for Part# DMYN9: 03/15/2023 
+
+                                                     
+
+02/10/23 
+
+11:02 PM 
+
+SR# 161815423 CALL# 00T6P00000CMFR7UAM 
+
+SFDC# 161815423 
+
+No Contact 
+
+call back request to inform cx about BO delay, emails getting bounced 
+
+                                                     
+
+02/13/23 
+
+05:46 AM 
+
+SR# 161815423 CALL# 00T6P00000CTGNQUAI 
+
+SFDC# 161815423 
+
+No Contact 
+
+POC-CM>NOTES: 
+
+NOTE TO CO: offer EXG| part BO > 20 BD 
+
+                                                     
+
+02/13/23 
+
+02:54 PM 
+
+SR# 161815423 CALL# 00T6P00000CO7SFUAY 
+
+SFDC# 161815423 
+
+No Contact 
+
+For OB 
+
+                                                     
+
+02/13/23 
+
+03:11 PM 
+
+SR# 161815423 CALL# 00T6P00000CO8V1UAI 
+
+SFDC# 161815423 
+
+Customer Outbound 
+
+Dialed PPN. 
+
+-Ringing for 3mins then busy tone 
+
+                                                     
+
+02/13/23 
+
+06:30 PM 
+
+SR# 161815423 CALL# 00T6P00000CB9PTUAA 
+
+SFDC# 161815423 
+
+No Contact 
+
+#BeginSolutionLogging 
+
+start_time_utc: 2023-02-13 18:30:04 | 
+
+session_id: 146ccd2c-9680-4534-831a-81756a6722b8 | 
+
+language: en | 
+
+asst_id: J62F1V3 | 
+
+lob_desc: Precision Desktops | 
+
+brand_desc: PRECISION 7865 TOWER | 
+
+BKC status: SA not Active | 
+
+Symptom Description: Dispatch Status and Part Backlog | 
+
+Keywords: dispatch, status, part, backlog | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+Next Best Action Recommendations: 
+
+Follow Micro Path | 
+
+Does The Dispatch Contain Special Delta/SFDC Flags Or Notifications?\nCheck Status Using Delta / SPMD / GOV : No | 
+
+Click On Dispatch Status And Check The Service Request Details And Dispatch Activity Online And Inform Customer The Same. : Issue Unresolved | 
+
+Check For Parts Backlog ETA, Refer Parts Backlog Policy And Procedure - Dell Global Policy And Global Parts Backlog Tool : Continue | 
+
+Does The Work Order Satisfy The Following Conditions: : No | 
+
+NBA Recommends To <br>1. If WO Created Less Than 2 Business Days Or ETA Is NOT Past Due, Wait For ETA, <br>2. If WO Is OOP, Redirect To OOP Portal | 
+
+Feedback: YES | 
+
+Flow Title:  |  
+
+Known Resolution Recommended: 203455,177278 | 
+
+Repeat Contact: Yes | 
+
+end_time_utc: 2023-02-13 18:30:50 | 
+
+#EndSolutionLogging 
+
+                                                     
+
+02/13/23 
+
+06:37 PM 
+
+SR# 161815423 CALL# 00T6P00000COM14UAE 
+
+SFDC# 161815423 
+
+No Contact 
+
+DPS 437990211 part BO, unable to reach cx via email or phone to offer closure 
+
+STCD-NEW: NO WAYBILL FROM OEMETA RESET FROM 02/13/23 13:00 TO 02/14/23 13:00BECAUSE CALL WAS IN BO STATUS PAST THE SLA. 
+
+per BO 3/15/2023 
+
+                                                     
+
+02/13/23 
+
+06:49 PM 
+
+SR# 161815423 CALL# 00T6P00000COMBGUAE 
+
+SFDC# 161815423 
+
+Customer Outbound 
+
+Additional To: rwinton@utk.edu 
+
+CC:  
+
+BCC:  
+
+Attachment: Subject: RE: Dell Basic Warranty Support | Service case #: 161815423 [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+Body: 
+
+Hi Ryan 
+
+I just like to check if you received my last email about delay on part replacement? 
+
+It appears Im getting a bounced emails at rwinton@utk.edu. 
+
+Do you have an alternate email? We tried to call you via 9313937254 but you are not reachable. If the email did not push through, Well go ahead and archive the case if you dont have further concerns. Rest assured that we can reopen the case if you need assistance within 10  days. 
+
+Rest assured that the Dispatch is still in progress even if the case is closed. You can always check the status of the Dispatch by going to 
+
+https://www.dell.com/support/incidents-online/en-us/srsearch 
+
+Select Dispatch number on the drop down list and type 437990211 and click Search and type your email: rwinton@utk.edu and click Submit 
+
+The Service Request Number provided to you contains all the pertinent information about this issue. Please refer to this reference number in case the issue remains unresolved 
+
+We look forward hearing from you. Thank you for being a valued Dell client. 
+
+Abel 
+
+Badge# 724357 
+
+Dell Hardware Support 
+
+--------------- Original Message --------------- 
+
+From: Dell Tech Support [technical_support@help.dell.com] 
+
+Sent: 2/10/2023 1:54 AM 
+
+To: rwinton@utk.edu 
+
+Subject: RE: Dell Basic Warranty Support | Service case #: 161815423 [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+Hi Ryan This is Abel again from Dell Basic Hardware Warranty, the original owner of your case. 
+
+Regarding our dispatch for the Motherboard replacement under dps:437990211. Unfortunately, the Motherboard part: DMYN9 is currently in back order and the ETA availability is 3/15/2023 
+
+Which is now causing the delay for part replacement. 
+
+Rest assured that  I will monitor this case and will update you if there will be a change on the ETA of the backlog part. Since the Backlog ETA may update or change. 
+
+I would like to apologize for any inconvenience this delay has caused you. 
+
+We’re dedicated to delivering exceptional service to our customers, so please feel free to reply to this email if you have further questions. 
+
+Thank you for being a valued Dell client. 
+
+Abel 
+
+Badge# 724357 
+
+Dell Hardware Support 
+
+--------------- Original Message --------------- 
+
+From: Dell Tech Support [technical_support@help.dell.com] 
+
+Sent: 2/8/2023 5:21 AM 
+
+To: rwinton@utk.edu 
+
+Subject: Dell Basic Warranty Support | Service case #: 161815423 [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+Hello Ryan, 
+
+This is Abel from Dell Hardware Technical Support. I have arranged for an On-Site service for your Dell  system with Service Tag# J62F1V3. Our on-site technician will contact you to schedule appointment to replace the necessary part/s. Depending on parts availability, weather conditions, and shipping cut-offs at 5:00pm your local time, the parts will be delivered via Next Business Day courier. You will be receiving a 
+
+                                                     
+
+02/13/23 
+
+06:49 PM 
+
+SR# 161815423 CALL# 00T6P00000CTOIPUA4 
+
+SFDC# 161815423 
+
+Customer Inbound 
+
+TO: technical_support@help.dell.com 
+
+FROM: mailer-daemon@salesforce.com 
+
+SUBJECT: FWD: Undeliverable: RE: Dell Basic Warranty Support | Service case #: 161815423 [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+DATE&TIME: 2023-02-13 18:49:47 
+
+BODY: [EXTERNAL EMAIL] Hello, 
+
+Your email may not have been delivered. See the attached delivery notification. 
+
+Youre getting this message because your organization elected to forward delivery status notifications for emails you send. 
+
+                                                     
+
+02/13/23 
+
+06:58 PM 
+
+SR# 161815423 CALL# 00T6P00000COMOEUAM 
+
+SFDC# 161815423 
+
+No Contact 
+
+FOR TM review closure, getting bounced emails, already called cx. DPS part BO 
+
+                                                     
+
+02/14/23 
+
+07:18 PM 
+
+SR# 161815423 CALL# 00T6P00000CYCFKUAU 
+
+SFDC# 161815423 
+
+No Contact 
+
+#call back request for 1 strike dps still in BO, and getting bounced emails 
+
+                                                     
+
+02/14/23 
+
+07:34 PM 
+
+SR# 161815423 CALL# 00T6P00000CYDCEUA2 
+
+SFDC# 161815423 
+
+No Contact 
+
+For OB 
+
+                                                     
+
+02/14/23 
+
+07:35 PM 
+
+SR# 161815423 CALL# 00T6P00000CYDURUAM 
+
+SFDC# 161815423 
+
+Customer Outbound 
+
+Dialed PPN 
+
+-Ringing for 3mins then busy tone after. 
+
+                                                     
+
+02/14/23 
+
+10:17 PM 
+
+SR# 161815423 CALL# 00T6P00000CYKIEUAM 
+
+SFDC# 161815423 
+
+No Contact 
+
+FOR TM review closure, getting bounced emails, already called cx. DPS part BO 
+
+                                                     
+
+02/16/23 
+
+06:46 PM 
+
+SR# 161815423 CALL# 00T6P00000D11ITUAI 
+
+SFDC# 161815423 
+
+No Contact 
+
+for TM review closure, unable to contact cx via email or phone, part BO delay 
+
+                                                     
+
+02/20/23 
+
+04:46 PM 
+
+SR# 161815423 CALL# 00T6P00000D8CGCUAA 
+
+SFDC# 161815423 
+
+No Contact 
+
+#BeginSolutionLogging 
+
+start_time_utc: 2023-02-20 16:44:07 | 
+
+session_id: afc86a45-ff5c-4bfa-ae12-65e6a859d88c | 
+
+language: en | 
+
+asst_id: J62F1V3 | 
+
+lob_desc: Precision Desktops | 
+
+brand_desc: PRECISION 7865 TOWER | 
+
+BKC status: SA not Active | 
+
+Symptom Description: Dispatch Status and Part Backlog | 
+
+Keywords: dispatch, status, part, backlog | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+Next Best Action Recommendations: 
+
+Follow Micro Path | 
+
+Does The Dispatch Contain Special Delta/SFDC Flags Or Notifications?\nCheck Status Using Delta / SPMD / GOV : Yes | 
+
+Follow Instructions Provided In Flag/notification : Continue | 
+
+Is The Issue Resolved? : Yes | 
+
+NBA Recommends To Issue Resolved | 
+
+Feedback: YES | 
+
+Flow Title:  |  
+
+Known Resolution Recommended: 203455,177278 | 
+
+Repeat Contact: Yes | 
+
+end_time_utc: 2023-02-20 16:46:44 | 
+
+#EndSolutionLogging 
+
+                                                     
+
+02/20/23 
+
+04:48 PM 
+
+SR# 161815423 CALL# 00T6P00000CWJHLUAU 
+
+SFDC# 161815423 
+
+Customer Inbound 
+
+Service Tag: J62F1V3 
+
+System: PREC 7865t 
+
+SR: 1120527351 
+
+CCI to check dps status 
+
+WO 437990211> Backlog ETA for Part# DMYN9: 03/15/2023 
+
+educ about BO part 
+
+NOIR 
+
+                                                     
+
+02/22/23 
+
+03:08 PM 
+
+SR# 161815423 CALL# 00T6P00000DNQOVUAS 
+
+SFDC# 161815423 
+
+No Contact 
+
+DPS 437990211 
+
+Backlog ETA for Part# DMYN9: 03/15/2023 
+
+                                                     
+
+02/22/23 
+
+03:10 PM 
+
+SR# 161815423 CALL# 00T6P00000DNQW0UAC 
+
+SFDC# 161815423 
+
+Customer Outbound 
+
+Additional To: rwinton@utk.edu 
+
+CC:  
+
+BCC:  
+
+Attachment: Subject: RE: Dell Basic Warranty Support | Service case #: 161815423 [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+Body: 
+
+Hi Ryan 
+
+I just like to check if you received my last email? Im receiving bounced emails. Can you provide an alternate email address? The Service Request Number provided to you contains all the pertinent information about this issue. Please refer to this reference number in case the issue remains unresolved 
+
+Thank you for being a valued Dell client. 
+
+Abel 
+
+Badge# 724357 
+
+Dell Hardware Support 
+
+--------------- Original Message --------------- 
+
+From: Dell Tech Support [technical_support@help.dell.com] 
+
+Sent: 2/14/2023 2:49 AM 
+
+To: rwinton@utk.edu 
+
+Subject: RE: Dell Basic Warranty Support | Service case #: 161815423 [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+Hi Ryan 
+
+I just like to check if you received my last email about delay on part replacement? 
+
+It appears Im getting a bounced emails at rwinton@utk.edu. 
+
+Do you have an alternate email? We tried to call you via 9313937254 but you are not reachable. If the email did not push through, Well go ahead and archive the case if you dont have further concerns. Rest assured that we can reopen the case if you need assistance within 10  days. 
+
+Rest assured that the Dispatch is still in progress even if the case is closed. You can always check the status of the Dispatch by going to 
+
+https://www.dell.com/support/incidents-online/en-us/srsearch 
+
+Select Dispatch number on the drop down list and type 437990211 and click Search and type your email: rwinton@utk.edu and click Submit 
+
+The Service Request Number provided to you contains all the pertinent information about this issue. Please refer to this reference number in case the issue remains unresolved 
+
+We look forward hearing from you. Thank you for being a valued Dell client. 
+
+Abel 
+
+Badge# 724357 
+
+Dell Hardware Support 
+
+--------------- Original Message --------------- 
+
+From: Dell Tech Support [technical_support@help.dell.com] 
+
+Sent: 2/10/2023 1:54 AM 
+
+To: rwinton@utk.edu 
+
+Subject: RE: Dell Basic Warranty Support | Service case #: 161815423 [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+Hi Ryan This is Abel again from Dell Basic Hardware Warranty, the original owner of your case. 
+
+Regarding our dispatch for the Motherboard replacement under dps:437990211. Unfortunately, the Motherboard part: DMYN9 is currently in back order and the ETA availability is 3/15/2023 
+
+Which is now causing the delay for part replacement. 
+
+Rest assured that  I will monitor this case and will update you if there will be a change on the ETA of the backlog part. Since the Backlog ETA may update or change. 
+
+I would like to apologize for any inconvenience this delay has caused you. 
+
+We’re dedicated to delivering exceptional service to our customers, so please feel free to reply to this email if you have further questions. 
+
+Thank you for being a valued Dell client. 
+
+Abel 
+
+Badge# 724357 
+
+Dell Hardware Support 
+
+--------------- Original Message 
+
+                                                     
+
+02/22/23 
+
+03:10 PM 
+
+SR# 161815423 CALL# 00T6P00000D4DNVUAA 
+
+SFDC# 161815423 
+
+Customer Inbound 
+
+TO: technical_support@help.dell.com 
+
+FROM: mailer-daemon@salesforce.com 
+
+SUBJECT: FWD: Undeliverable: RE: Dell Basic Warranty Support | Service case #: 161815423 [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+DATE&TIME: 2023-02-22 15:10:59 
+
+BODY: [EXTERNAL EMAIL] Hello, 
+
+Your email may not have been delivered. See the attached delivery notification. 
+
+Youre getting this message because your organization elected to forward delivery status notifications for emails you send. 
+
+                                                     
+
+02/23/23 
+
+06:30 PM 
+
+SR# 161815423 CALL# 00T6P00000DPPLYUAG 
+
+SFDC# 161815423 
+
+No Contact 
+
+DPS 437990211 part shipped 
+
+                                                     
+
+02/23/23 
+
+06:32 PM 
+
+SR# 161815423 CALL# 00T6P00000DPQ0TUAW 
+
+SFDC# 161815423 
+
+No Contact 
+
+call back request, receiving bounced emails. To inform cx that part is out of BO. TO confirm phone number and valid email for OST 
+
+DPS 437990211 
+
+                                                     
+
+02/23/23 
+
+06:37 PM 
+
+SR# 161815423 CALL# 00T6P00000DPQIMUAO 
+
+SFDC# 161815423 
+
+No Contact 
+
+For OB 
+
+                                                     
+
+02/23/23 
+
+06:51 PM 
+
+SR# 161815423 CALL# 00T6P00000DPQSBUAG 
+
+SFDC# 161815423 
+
+Customer Outbound 
+
+Dialed PPN. 
+
+-Ringing for 3mins but no answer then busy tone 
+
+                                                     
+
+02/24/23 
+
+05:43 PM 
+
+SR# 161815423 CALL# 00T6P00000DQIZSUAK 
+
+SFDC# 161815423 
+
+No Contact 
+
+part ship 
+
+                                                     
+
+03/03/23 
+
+03:45 PM 
+
+SR# 161815423 CALL# 00T6P00000DZI6EUAA 
+
+SFDC# 161815423 
+
+No Contact 
+
+#BeginSolutionLogging 
+
+start_time_utc: 2023-03-03 15:44:38 | 
+
+session_id: 8cda4135-ab5c-4a59-abe8-75dba75afc67 | 
+
+language: en | 
+
+asst_id: J62F1V3 | 
+
+lob_desc: Precision Desktops | 
+
+brand_desc: PRECISION 7865 TOWER | 
+
+BKC status: SA not Active | 
+
+Symptom Description: no post | 
+
+Keywords: no, post | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+Next Best Action Recommendations: 
+
+Follow Guided  
+
+  
+
+Solution: No Post Troubleshooting | 
+
+Feedback: YES | 
+
+Flow Title: T0060 No POST |  
+
+External ID: 13192065 |  
+
+Known Resolution Recommended: 192037,184541 | 
+
+Repeat Contact: Yes | 
+
+end_time_utc: 2023-03-03 15:45:56 | 
+
+#EndSolutionLogging 
+
+                                                     
+
+03/03/23 
+
+03:46 PM 
+
+SR# 161815423 CALL# 00T6P00000DCA7RUAE 
+
+SFDC# 161815423 
+
+Customer Inbound 
+
+Service Tag: J62F1V3 
+
+System: PREC 7865t 
+
+SR: 1122305657 
+
+  
+
+  
+
+Issue: No Post 
+
+cx said mobo replacement did not fix the problem and has not heard anything back from the tech 
+
+wo 437990211 shows part was replaced and system boots> cx said it was a black screen after OST replaced the part 
+
+power led solid white; kybd unresponsive 
+
+cx no longer responding 
+
+ended call after dead air spiel 
+
+CPCL 
+
+No Post 
+
+no physical damage 
+
+cannot access EPSA 
+
+caps lock no led 
+
+no power led pattern 
+
+hard reset no go 
+
+BIOS Recovery no go 
+
+RTC reset no go 
+
+remove CRus no go 
+
+replace mobo 
+
+END OF CPCL 
+
+                                                     
+
+03/03/23 
+
+10:29 PM 
+
+SR# 161815423 CALL# 00T6P00000DXZKEUAA 
+
+SFDC# 161815423 
+
+Customer Outbound 
+
+Additional To: rwinton@utk.edu 
+
+CC:  
+
+BCC:  
+
+Attachment: Subject: Dell Basic Warranty Support | Service case #: 161815423 [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+Body: 
+
+Hi Ryan This is Abel again from Dell Basic Hardware Warranty. 
+
+It appears you called due to system not posting after the Motherboard was replaced by the last Onsite tech. May I know if this is correct? Did you already perform a Hard reset? You can do this by power off the system, unplug the power cord and other external device. And then press the Power button for 15 seconds to drain any residual power from the motherboard. Again I do apologize for the inconvenience this has caused you, but rest assured that we will clear this up for you. Thank you for being a valued Dell client. 
+
+Abel 
+
+Badge# 724357 
+
+Dell Hardware Support 
+
+--------------- Original Message --------------- 
+
+From: Mail Delivery System [mailer-daemon@salesforce.com] 
+
+Sent: 2/22/2023 11:10 PM 
+
+To: technical_support@help.dell.com 
+
+Subject: FWD: Undeliverable: RE: Dell Basic Warranty Support | Service case #: 161815423 [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+[EXTERNAL EMAIL] 
+
+Hello, 
+
+Your email may not have been delivered. See the attached delivery notification. 
+
+Youre getting this message because your organization elected to forward delivery status notifications for emails you send. 
+
+                                                     
+
+03/03/23 
+
+10:29 PM 
+
+SR# 161815423 CALL# 00T6P00000DCHD8UAM 
+
+SFDC# 161815423 
+
+Customer Inbound 
+
+TO: technical_support@help.dell.com 
+
+FROM: mailer-daemon@salesforce.com 
+
+SUBJECT: FWD: Undeliverable: Dell Basic Warranty Support | Service case #: 161815423 [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+DATE&TIME: 2023-03-03 22:29:19 
+
+BODY: [EXTERNAL EMAIL] Hello, 
+
+Your email may not have been delivered. See the attached delivery notification. 
+
+Youre getting this message because your organization elected to forward delivery status notifications for emails you send. 
+
+                                                     
+
+03/03/23 
+
+10:59 PM 
+
+SR# 161815423 CALL# 00T6P00000DY0FFUAA 
+
+SFDC# 161815423 
+
+No Contact 
+
+still receiving bounced emails for call back 
+
+                                                     
+
+03/06/23 
+
+03:38 AM 
+
+SR# 161815423 CALL# 00T6P00000DCXTCUA2 
+
+SFDC# 161815423 
+
+No Contact 
+
+POC-CM>NOTES: 
+
+Distress | Potential DSAT detected 
+
+                                                     
+
+03/06/23 
+
+02:33 PM 
+
+SR# 161815423 CALL# 00T6P00000EGCROUA0 
+
+SFDC# 161815423 
+
+No Contact 
+
+For OB 
+
+                                                     
+
+03/06/23 
+
+02:59 PM 
+
+SR# 161815423 CALL# 00T6P00000EGEGMUA0 
+
+SFDC# 161815423 
+
+Customer Outbound 
+
+Dialed PPN. 
+
+-Ringing for 3mins then busy tone 
+
+                                                     
+
+03/06/23 
+
+04:22 PM 
+
+SR# 161815423 CALL# 00T6P00000DP2WMUAI 
+
+SFDC# 161815423 
+
+No Contact 
+
+***CID Intervention***For another one strike due to Bounced e-mail 
+
+                                                     
+
+03/06/23 
+
+04:58 PM 
+
+SR# 161815423 CALL# 00T6P00000EGMKTUAC 
+
+SFDC# 161815423 
+
+No Contact 
+
+call back request per CM 
+
+getting bounced emails 
+
+DPS completed 1 strike 
+
+                                                     
+
+03/06/23 
+
+06:09 PM 
+
+SR# 161815423 CALL# 00T6P00000EGR4TUAS 
+
+SFDC# 161815423 
+
+No Contact 
+
+For OB 
+
+                                                     
+
+03/06/23 
+
+07:54 PM 
+
+SR# 161815423 CALL# 00T6P00000EGWZGUAK 
+
+SFDC# 161815423 
+
+Customer Outbound 
+
+Dialed PPN. 
+
+-Ringing for 3 mins but no answer at all. 
+
+                                                     
+
+03/08/23 
+
+12:18 AM 
+
+SR# 161815423 CALL# 00T6P00000EIWORUAW 
+
+SFDC# 161815423 
+
+No Contact 
+
+TM review for closure, getting bounced emails, confirm that email add is correct on session,  Dps already completed 
+
+                                                     
+
+03/09/23 
+
+04:48 PM 
+
+SR# 161815423 CALL# 00T6P00000EDM7CUAC 
+
+SFDC# 161815423 
+
+No Contact 
+
+For TL Closure Review | PDSAT 
+
+                                                     
+
+03/09/23 
+
+09:13 PM 
+
+SR# 161815423 CALL# 00T6P00000EWGUGUA0 
+
+SFDC# 161815423 
+
+Customer Inbound 
+
+Name : Ryan Winton 
+
+Phone : 9313937254 
+
+Email : rwinton@utk.edu 
+
+Test Email:  
+
+VDI (CX Address): 411 B H Goethert Pkwy Tullahoma, TN 37388 
+
+**********************  
+
+System Model:  PREC 7865 
+
+  
+
+  
+
+Service Tag: J62F1V3 
+
+  
+
+  
+
+Issue: No video 
+
+Troubleshooting:  
+
+Cx calling said he did not hear back from the tech after the MOBO replacement 
+
+as per cx hes having the same issue after the replacement 
+
+cx said as per the tech it can be the PROC or GPU 
+
+checked on the DPS notes 
+
+cx using mDP to DP means monitors are connected on the add on GPU 
+
+system power button light is a solid white light  
+
+cx using Dell monitors 
+
+Reseated GPU / tried different PCI slot No Go 
+
+educ we will replace the GPU 
+
+will do POS 
+
+educ about TAT 1-2 BD depends on the availability and has 10 days to return the old one back will also receive an auto email about the DPS and can call us back if assistance is needed 
+
+Reso : POS GPU 
+
+VDI: Y 
+
+TAT: 1-2 BD  
+
+APN: N 
+
+TARP : Y 
+
+ATLAS: Y 
+
+EMAIL: Y 
+
+SMART ID : Email Domain 
+
+                                                     
+
+03/09/23 
+
+09:16 PM 
+
+SR# 161815423 CALL# 00T6P00000EWHEBUA0 
+
+SFDC# 161815423 
+
+No Contact 
+
+The Dispatch Request has been successfully submitted for Case Number:161815423 the ID for the submission is:269648 
+
+                                                     
+
+03/09/23 
+
+09:16 PM 
+
+SR# 161815423 CALL# 00T6P00000EWHEZUAK 
+
+SFDC# 161815423 
+
+No Contact 
+
+#BeginSolutionLogging 
+
+start_time_utc: 2023-03-09 20:56:54 | 
+
+session_id: d9b9d8c8-8197-4881-aa2c-ddce30083ce2 | 
+
+language: en | 
+
+asst_id: J62F1V3 | 
+
+lob_desc: Precision Desktops | 
+
+brand_desc: PRECISION 7865 TOWER | 
+
+BKC status: SA not Active | 
+
+Symptom Description: No video | 
+
+Keywords: no, display | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+Next Best Action Recommendations: 
+
+Follow KB Article: No Video Using The Nvidia Rtx 3000 Series Card On Hdmi To A 4K Display | 
+
+Feedback: NO | 
+
+Flow Title:  |  
+
+Follow Guided  
+
+  
+
+Solution: No Video and Distorted Video Troubleshooting | 
+
+Feedback: YES | 
+
+Flow Title: T0050 No Video or Distorted Video |  
+
+External ID: 13360820 |  
+
+Known Resolution Recommended: 206238 | 
+
+Repeat Contact: Yes | 
+
+end_time_utc: 2023-03-09 21:16:21 | 
+
+#EndSolutionLogging 
+
+                                                     
+
+03/09/23 
+
+09:18 PM 
+
+SR# 161815423 CALL# A-4RQG277C 
+
+SFDC# 161815423 
+
+Break Fix 
+
+Customer: E NBD | Resolved | For Follow-up | No Post | Neutral | 
+
+                                                     
+
+03/13/23 
+
+02:16 PM 
+
+SR# 161815423 CALL# 00T6P00000EESZGUAY 
+
+SFDC# 161815423 
+
+Customer Inbound 
+
+ghost call  
+
+call comes in  
+
+no reply  
+
+no audio  
+
+call disconnected after a few sec 
+
+                                                     
+
+03/13/23 
+
+02:17 PM 
+
+SR# 161815423 CALL# 00T6P00000EYLSUUAW 
+
+SFDC# 161815423 
+
+No Contact 
+
+#BeginSolutionLogging 
+
+start_time_utc: 2023-03-13 14:17:29 | 
+
+session_id: 88c3fd4d-975b-48ca-931a-be37ee99567b | 
+
+language: en | 
+
+asst_id: J62F1V3 | 
+
+lob_desc: Precision Desktops | 
+
+brand_desc: PRECISION 7865 TOWER | 
+
+BKC status: SA not Active | 
+
+Symptom Description: quick call | 
+
+Keywords: quick, call | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+Next Best Action Recommendations: 
+
+Follow KB Article: Services Lightning Quick Contact Policy And Procedure - Dell Global Policy | 
+
+Feedback: YES | 
+
+Flow Title:  |  
+
+Known Resolution Recommended: 177961 | 
+
+Repeat Contact: Yes | 
+
+end_time_utc: 2023-03-13 14:17:49 | 
+
+#EndSolutionLogging 
+
+                                                     
+
+03/13/23 
+
+02:45 PM 
+
+SR# 161815423 CALL# 00T6P00000EYNLGUAO 
+
+SFDC# 161815423 
+
+No Contact 
+
+#BeginSolutionLogging 
+
+start_time_utc: 2023-03-13 14:18:55 | 
+
+session_id: 36da1728-da8a-4803-8247-6704c9bd397f | 
+
+language: en | 
+
+asst_id: J62F1V3 | 
+
+lob_desc: Precision Desktops | 
+
+brand_desc: PRECISION 7865 TOWER | 
+
+BKC status: SA not Active | 
+
+Symptom Description: no post | 
+
+Keywords: no, post | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+Next Best Action Recommendations: 
+
+Flow Title: T0060 No POST |  
+
+Known Resolution Recommended: 192037,184541 | 
+
+Repeat Contact: Yes | 
+
+Symptom Description: System Exchange Issues | 
+
+Keywords: system, exchange, issue | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+Next Best Action Recommendations: 
+
+Follow KB Article: Dell System Exchange (Exg) Escalation Process – Global Policy (Client/Enterprise) | 
+
+Feedback: YES | 
+
+Flow Title:  |  
+
+Known Resolution Recommended: 192685 | 
+
+Repeat Contact: Yes | 
+
+end_time_utc: 2023-03-13 14:45:52 | 
+
+#EndSolutionLogging 
+
+                                                     
+
+03/13/23 
+
+02:46 PM 
+
+SR# 161815423 CALL# 00T6P00000EL9YWUAK 
+
+SFDC# 161815423 
+
+Customer Inbound 
+
+Service Tag: 164065865 
+
+System: PREC 7865 t 
+
+SR: 1122305657 
+
+  
+
+  
+
+Issue: power led solid white; black screen; kybd not responding 
+
+mobo, gpu were replaced but still had issues. cx is requesting system replacement 
+
+offered ts> cx declined 
+
+issue first reported within return period on 2/18; 
+
+Session: 17560204 #Rahul_Dala# #Approval #Exg 
+
+CPCL 
+
+no physical damage 
+
+cx cannot access DELL EPSA 
+
+caps lock no led 
+
+no power led pattern 
+
+hard reset no go 
+
+BIOS Recovery no go 
+
+RTC reset no go 
+
+remove CRus no go 
+
+replace mobo> same issue 
+
+as per the tech it can be the PROC or GPU 
+
+checked on the DPS notes 
+
+cx using mDP to DP means monitors are connected on the add on GPU 
+
+system power button light is a solid white light 
+
+cx using Dell monitors 
+
+Reseated GPU / tried different PCI slot No Go 
+
+replace GPU 
+
+END OF CPCL 
+
+BTTR: 8-5 cst 
+
+VDI; TAT; CIDAR; TARP 
+
+Smart ID: shipping address matches order info 
+
+                                                     
+
+03/13/23 
+
+03:54 PM 
+
+SR# 161815423 CALL# 00T6P00000EJWWAUAU 
+
+SFDC# 161815423 
+
+No Contact 
+
+system exchange requested 
+
+                                                     
+
+03/13/23 
+
+09:26 PM 
+
+SR# 161815423 CALL# A-4RVZQ0N5 
+
+SFDC# 161815423 
+
+Exchange 
+
+Solution: J62F1V3 
+
+                                                     
+
+03/14/23 
+
+04:17 PM 
+
+SR# 161815423 CALL# 00T6P00000EZD8GUAG 
+
+SFDC# 161815423 
+
+Customer Outbound 
+
+Additional To: mailer-daemon@salesforce.com 
+
+CC:  
+
+BCC:  
+
+Attachment: Subject: We processed your system exchange [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+Body: 
+
+Your system exchange was processed. Its estimated arrival date is 3/21/2023. Track your order Hello Ryan Winton, You can track your replacement system online. Replacement system details Order number: 
+
+    636243907 Dispatch number: 
+
+    748395927 Case number: 
+
+    161815423 Original system service tag number: 
+
+    J62F1V3 When you receive your replacement system, use the box and provided shipping label to return the original system. You can also generate the return label. Please ship back your original system to Dell within 10 days of receiving your replacement product. By doing so, you’ll maintain continuous access to Dell Technical Support. Thank you for choosing Dell Technologies. Visit our community forum Contact us Privacy Statement Dell Technologies Inc., One Dell Way, Round Rock, Texas 78682 This is an automated email that cannot accept replies. ref:_00D0bGaMp._5006PB7D6w:ref 
+
+                                                     
+
+03/14/23 
+
+04:17 PM 
+
+SR# 161815423 CALL# 00T6P00000ELEPXUAS 
+
+SFDC# 161815423 
+
+Customer Inbound 
+
+TO: technical_support@help.dell.com 
+
+FROM: mailer-daemon@salesforce.com 
+
+SUBJECT: FWD: Undeliverable: We processed your system exchange [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+DATE&TIME: 2023-03-14 16:17:42 
+
+BODY: [EXTERNAL EMAIL] Hello, 
+
+Your email may not have been delivered. See the attached delivery notification. 
+
+Youre getting this message because your organization elected to forward delivery status notifications for emails you send. 
+
+                                                     
+
+03/14/23 
+
+04:26 PM 
+
+SR# 161815423 CALL# 00T6P00000EBEPBUAG 
+
+SFDC# 161815423 
+
+Customer Outbound 
+
+Additional To: rwinton@utk.edu 
+
+CC:  
+
+BCC:  
+
+Attachment: Subject: We processed your system exchange [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+Body: 
+
+Your system exchange was processed. Its estimated arrival date is 3/21/2023. Track your order Hello Ryan Winton, Greetings from Dell! 
+
+    System : New. You can track your replacement system online. Replacement system details Order number: 
+
+    636243907 Dispatch number: 
+
+    748395927 Case number: 
+
+    161815423 Original system service tag number: 
+
+    J62F1V3 Shipping address: 
+
+    J62F1V3 When you receive your replacement system, use the box and provided shipping label to return the original system. You can also generate the return label. Please ship back your original system to Dell within 10 days of receiving your replacement product. By doing so, you’ll maintain continuous access to Dell Technical Support. Thank you for choosing Dell Technologies. Visit our community forum Contact us Privacy Statement Dell Technologies Inc., One Dell Way, Round Rock, Texas 78682 Thanks & Regards, 
+
+    Rajni Batra 
+
+    Technician, Tech support Commercial Services Exchange Operations - North America / Canada 
+
+    Dell Technologies | CSG Global Exchange Operation 
+
+    Work hours - 5:30 pm to 2:30 am IST | 7:00 am to 4:00 pm CST ref:_00D0bGaMp._5006PB7D6w:ref 
+
+                                                     
+
+03/14/23 
+
+04:27 PM 
+
+SR# 161815423 CALL# 00T6P00000EU212UAC 
+
+SFDC# 161815423 
+
+Customer Inbound 
+
+TO: technical_support@help.dell.com 
+
+FROM: mailer-daemon@salesforce.com 
+
+SUBJECT: FWD: Undeliverable: We processed your system exchange [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+DATE&TIME: 2023-03-14 16:27:25 
+
+BODY: [EXTERNAL EMAIL] Hello, 
+
+Your email may not have been delivered. See the attached delivery notification. 
+
+Youre getting this message because your organization elected to forward delivery status notifications for emails you send. 
+
+                                                     
+
+03/19/23 
+
+04:06 PM 
+
+SR# 161815423 CALL# 00T6P00000F19NSUAY 
+
+SFDC# 161815423 
+
+Customer Outbound 
+
+Additional To: mailer-daemon@salesforce.com 
+
+CC:  
+
+BCC:  
+
+Attachment: Subject: We shipped your replacement system! Track it online [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+Body: 
+
+Your replacement system shipped! Track your order Hello Ryan Winton, Your replacement system has shipped. View its progress online. Replacement system details Order number: 
+
+    636243907 Dispatch number: 
+
+    748395927 Case Number: 
+
+    161815423 Original Service Tag number: 
+
+    J62F1V3 When you receive your replacement system, use the box and provided shipping label to return the original system. You can also generate the return label. Please ship back your original system to Dell within 10 days of receiving your replacement product. By doing so, you’ll maintain continuous access to Dell Technical Support. Thank you for choosing Dell Technologies. Visit our community forum 
+
+    Contact us Privacy Statement Dell Technologies One Dell Way, Round Rock, TX, 78682 This is an automated email that cannot accept replies. ref:_00D0bGaMp._5006PB7D6w:ref 
+
+                                                     
+
+03/19/23 
+
+04:06 PM 
+
+SR# 161815423 CALL# 00T6P00000F19QZUAY 
+
+SFDC# 161815423 
+
+Customer Inbound 
+
+TO: technical_support@help.dell.com 
+
+FROM: mailer-daemon@salesforce.com 
+
+SUBJECT: FWD: Undeliverable: We shipped your replacement system! Track it online [ ref:_00D0bGaMp._5006PB7D6w:ref ] 
+
+DATE&TIME: 2023-03-19 16:06:27 
+
+BODY: [EXTERNAL EMAIL] Hello, 
+
+Your email may not have been delivered. See the attached delivery notification. 
+
+Youre getting this message because your organization elected to forward delivery status notifications for emails you send. 
+
+                                                     
+
+04/05/23 
+
+03:03 PM 
+
+SR# 165679513 CALL# 00T6P0000029EAMUAE 
+
+SFDC# 165679513 
+
+Chat 
+
+I received a replacement computer under warranty due to this one being faulty. However, I did not receive a return label to send it back. 
+
+                                                     
+
+04/05/23 
+
+03:10 PM 
+
+SR# 165679513 CALL# 00T6P00000G1WBPUAQ 
+
+SFDC# 165679513 
+
+No Contact 
+
+#BeginSolutionLogging 
+
+start_time_utc: 2023-04-05 15:05:36 | 
+
+session_id: fc4acf36-4cba-4575-95da-c943be2a8b32 | 
+
+language: en | 
+
+asst_id: J62F1V3 | 
+
+Active open case: 165679513 | 
+
+lob_desc: Precision Desktops | 
+
+brand_desc: PRECISION 7865 TOWER | 
+
+BKC status: SA not Active | 
+
+Symptom Description: UPS return label | 
+
+Keywords: up, return, label | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+External ID: NOT-AVAILABLE | 
+
+Next Best Action Recommendations: 
+
+Follow KB Article: How To Create A Ups Return Label | 
+
+Feedback: YES | 
+
+Flow Title:  |  
+
+External ID: NOT-AVAILABLE |  
+
+Known Resolution Recommended: 177961 | 
+
+end_time_utc: 2023-04-05 15:10:25 | 
+
+#EndSolutionLogging 
+
+                                                     
+
+04/05/23 
+
+03:30 PM 
+
+SR# 165679513 CALL# 00T6P0000029F9GUAE 
+
+SFDC# 165679513 
+
+No Contact 
+
+- Name: Ryan 
+
+-  
+
+  
+
+Service Tag: J62F1V3 
+
+- System Type: PRECISION 7865 
+
+- Session ID: 17939829 
+
+………………………………………………………………………………………………………… 
+
+» CUSTOMER STATED ISSUE:  
+
+I received a replacement computer under warranty due to this one being faulty. However, I did not receive a return label to send it back. 
+
+» TECH LOG:  
+
+-DPS# 748395927 EXG (Order # 636243907) 
+
+-created and sent return label w/ Tracking# 1Z3V713R9096341821 
+
+-noir 
+
+-eoc 
+
+» NEXT STEP:  
+
+Send closure 
+
+» ORACLE ID:  
+
+- na 
+
+» DIAGNOSTIC: 
+
+- Tool not needed/Not Possible to Run: 
+
+- Reason: na 
+
+** THIS IS A NON-DISPATCH CALL ** 
+
+- BTTR: 8am - 5 pm CST 
+
+………………………………………………………………………………………………………… 
+
+- Email Address and Phone Number Obtained and Updated in SR 
+
+- Heat Check: Sat 
+
+- Self Rating: 9 
+
+- Positioned TOTSO: N/A 
+
+- Sent Summary Email 
+
+                                                     
+
+04/05/23 
+
+03:30 PM 
+
+SR# 165679513 CALL# 00T6P0000029FLOUA2 
+
+SFDC# 165679513 
+
+Customer Outbound 
+
+Additional To: rwinton@utk.edu 
+
+CC:  
+
+BCC:  
+
+Attachment: Subject: Dell Basic Warranty Support | Service Request #: 1127435287 [ ref:_00D0bGaMp._5006PAfvA7:ref ] 
+
+Body: 
+
+Hi Ryan, 
+
+Thank you for contacting Dell Support! It was a pleasure working with you today. 
+
+For reference, your Service Request for this Service Tag is: 1127435287. 
+
+Ill be archiving this case. If you need any further assistance, this case can be reopened within 10 days by simply replying to this email. 
+
+Thank you for being a valued Dell client. 
+
+Regards, 
+
+Allan 
+
+Badge# 230601 
+
+Dell Hardware Support 
+
+ref:_00D0bGaMp._5006PAfvA7:ref 
+
+                                                     
+
+04/05/23 
+
+03:30 PM 
+
+SR# 165679513 CALL# 00T6P00000G6DTHUAM 
+
+SFDC# 165679513 
+
+Customer Inbound 
+
+TO: technical_support@help.dell.com 
+
+FROM: mailer-daemon@salesforce.com 
+
+SUBJECT: FWD: Undeliverable: Dell Basic Warranty Support | Service Request #: 1127435287 [ ref:_00D0bGaMp._5006PAfvA7:ref ] 
+
+DATE&TIME: 2023-04-05 15:30:45 
+
+BODY: [EXTERNAL EMAIL] Hello, 
+
+Your email may not have been delivered. See the attached delivery notification. 
+
+Youre getting this message because your organization elected to forward delivery status notifications for emails you send. 
+
+                                                     
+
+PPIDs 22 Click to Toggle -- or -- Drag & Drop to reorder  
+
+Part #    Commodity    Part Description    PPID    Date Code    Country Code    Vendor Code    Serial Num    Rev Level 
+
+5C9PM    Assy,Drive Bay    ASSY,DR,BAY,M.2,MODULE,PWS    CN05C9PMFCW0029SP0I3    09/28/2022 (29S)    CN    FCW00    P0I3    A00 
+
+5C9PM    Assy,Drive Bay    ASSY,DR,BAY,M.2,MODULE,PWS    CN05C9PMFCW0029SP0IG    09/28/2022 (29S)    CN    FCW00    P0IG    A00 
+
+1DKP4    Assy,Mechanical    ASSY,MECH,60F,TOP,2NVME,7865T    CN01DKP4FCW0029QP004    09/26/2022 (29Q)    CN    FCW00    P004    A01 
+
+1KK3C    Bezel    ASSY,BZL,FT,HDD,LOCKABLE,P/H    CN01KK3CFCW0028O00CJ    08/24/2022 (28O)    CN    FCW00    00CJ    A00 
+
+1KK3C    Bezel    ASSY,BZL,FT,HDD,LOCKABLE,P/H    CN01KK3CFCW0028O00CI    08/24/2022 (28O)    CN    FCW00    00CI    A00 
+
+KWJ9H    Bezel    ASSY,BZL,+BRKT,SLIM ODD,P/H    CN0KWJ9HFCW00277P04N    07/07/2022 (277)    CN    FCW00    P04N    A00 
+
+0NTKC    Cable    ASSY,CBL,SLIM,ODD,CABLE    CN00NTKCLXG0025JA04N    05/19/2022 (25J)    CN    LXG00    A04N    A00 
+
+553VG    Chassis    ASSY,CHAS,L5+,BLANK,7865T    CN0553VGFCW0028Q000Q    08/26/2022 (28Q)    CN    FCW00    000Q    A00 
+
+YDNGM    Graphics Card    CRD,GRPHC,12GB,A2000,FH    CN0YDNGMBDHNV25V2582    05/31/2022 (25V)    CN    BDHNV    2582    A01 
+
+JNPWN    Hard Drive    SSDR,512G,G44,80S3,MICRON,3400    MY0JNPWNMCP002913J1Y    09/01/2022 (291)    MY    MCP00    3J1Y    A02 
+
+JNPWN    Hard Drive    SSDR,512G,G44,80S3,MICRON,3400    MY0JNPWNMCP002913J1W    09/01/2022 (291)    MY    MCP00    3J1W    A02 
+
+JNPWN    Hard Drive    SSDR,512G,G44,80S3,MICRON,3400    MY0JNPWNMCP002913J21    09/01/2022 (291)    MY    MCP00    3J21    A02 
+
+JNPWN    Hard Drive    SSDR,512G,G44,80S3,MICRON,3400    MY0JNPWNMCP002913J20    09/01/2022 (291)    MY    MCP00    3J20    A02 
+
+K5JWF    Heatsink    ASSY,HTSNK,CPU,280W,7865T    CN0K5JWFASG0026B0004    06/11/2022 (26B)    CN    ASG00    0004    A00 
+
+RT46D    Key    KEY,HDD,BZL,LOCK-KEY,METAL,P/H    CN0RT46DFCW00289003Q    08/09/2022 (289)    CN    FCW00    003Q    A00 
+
+RT46D    Key    KEY,HDD,BZL,LOCK-KEY,METAL,P/H    CN0RT46DFCW00289003F    08/09/2022 (289)    CN    FCW00    003F    A00 
+
+081N8    Keyboard    KIT,KYBD,104,US,KB216-B,L,WW    CN0081N8LO30029OG89O    09/24/2022 (29O)    CN    LO300    G89O    A02 
+
+W94RF    Label (P/N)    LBL,AMD,32408-B, BLACK,80X80    CN0W94RFC5B00156046S    05/06/2021 (156)    CN    C5B00    046S    A00 
+
+KT58Y    Label (Regulatory)    LBL,REG,1350W,DAO,IFT,7865T    MX0KT58YC5M002CRV01R    12/27/2022 (2CR)    MX    C5M00    V01R    A00 
+
+DMYN9    Motherboard    ASSY,PWA,PWS,7865T    CN0DMYN9FCW00299002P    09/09/2022 (299)    CN    FCW00    002P    A00 
+
+1WYFT    Network Card    CRD,NTWK,INTL,FH,10G,2P,BT    MY01WYFTFLMIT29200FK    09/02/2022 (292)    MY    FLMIT    00FK    A00 
+
+PNDVV    Optical Drive    DVD+/-RW,8X,9.5T,PLDS    CN0PNDVVPLC0024D597V    04/13/2022 (24D)    CN    PLC00    597V    A00 
+
+DIMM SPD Data 4 Click to Toggle -- or -- Drag & Drop to reorder  
+
+Dimm Location    Vendor    Vendor PN    Date Code    MFG Loc 
+
+P0 CHANNEL C DIMM 1    Hynix    HMA82GR7DJR8N-XN    2230    01 
+
+P0 CHANNEL H DIMM 4    Hynix    HMA82GR7DJR8N-XN    2230    01 
+
+P0 CHANNEL D DIMM 2    Hynix    HMA82GR7DJR8N-XN    2230    01 
+
+P0 CHANNEL G DIMM 3    Hynix    HMA82GR7DJR8N-XN    2230    01 
+
+Service Tag Components 161 Click to Toggle -- or -- Drag & Drop to reorder  
+
+Commodity    Qty    SKU    Mod    Part 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    RTJH1 SRV,DRVR,AQUANTIA,LOM,7865T 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    MN4HV SRV,APP,AUD,WAVES,PROAPP,7865T 
+
+PURGED INFO PARTS    1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    XPRGW INFO,UEFI-CL3 
+
+INFORMATION ONLY    1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    VPGJX INFO,RYLTY,INSYDE,AGS,BIOS,PWS 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    WHGX5 SRV,ENABLE,VBS-HVCI 
+
+PURGED INFO PARTS    1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    01323 INFO,NO ITEM 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    VR688 INFO,SWSI,DT,STD,PWS,7865T 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    WXM2C SRV,BIOS RECOVERY 2 
+
+PURGED INFO PARTS    1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    8564U INFO,SW,DEFAULT,NTFS 
+
+INFORMATION ONLY    1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    G05NM INFO,ADVANCED,FPWS 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    W94RF LBL,AMD,32408-B, BLACK,80X80 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    8C3H1 LBL,AMD,CPU,THREADRIPPER,SYS 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    08VJV SRV,DRVR,REALTEK,LOM,7865T 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    N92M7 SRV,DRVR,PCIE,PWR,7865T 
+
+PURGED INFO PARTS    1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    MC800 INFO,INTRUSION SWITCH ON 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    VMJ1R SRV,DRVR,REALTEK,CRDR,7865T 
+
+PURGED INFO PARTS    1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    0616F INFO,BOOT,GPT,OVERRIDE 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    NTYW0 LBL,SVC TAG,BLANK,AQ,DT/NB 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    9HMYR SRV,DRVR,AMD,RAID,XT,APP,7865T 
+
+INSTRUCTIONS    1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    T845M INSTR,TRIG,SVC TAG 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    XP9T9 INFO,BOOT,CNTNR,GPT 
+
+INFORMATION ONLY    1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    74FPM INFO,MEM,OPTIMIZED 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    0MH15 SRV,DRVR,AUD,RTLK,PWS,7865T 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    CFJ4X SRV,DRVR,CHIPSET,INF,7865T 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    6FDWG INFO,VBS-HVCI,8GB,MIN,REQ 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    YG2RM SRV,DRVR,LINUX,7865T 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    57154 Service Charge,Software, Windows 98,Fully Integrated System Test 
+
+1    210-BEXT Precision 7865 Tower CTO BASE    NDR22    5XG5H INFO,LBL,PKG,POD,UKCA 
+
+2    449-BBZC M.2 NVME Upper Flexbay Assembly, M.2 NVME Lower Flexbay Assembly (5860, 7865)    169R5    1KK3C ASSY,BZL,FT,HDD,LOCKABLE,P/H 
+
+SERVICE INSTALL    1    658-BFOF Dell Additional Software    4P84D    GFGV0 SRV,SW,DCU,APP 
+
+SI- NON-ISSUE IMAGE    1    365-8303 Ready Image for Client PC    5U269    57906 System Integration,InformationNo Fida Download,Service Part 
+
+SI- NON-ISSUE INFORMATION    1    365-8303 Ready Image for Client PC    P2G9T    H95JD SI,INFO,DRV-INJ, OFFLINE-IF 
+
+1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    0P1H1    D6KX0 INFO,WINDOWS,10 
+
+1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    CD0PV    D6KX0 INFO,WINDOWS,10 
+
+1    429-ABMU Slim ODD bezel, 100% tie with slim ODD    JXDC4    0NTKC ASSY,CBL,SLIM,ODD,CABLE 
+
+INFORMATION ONLY    1    379-BDZB EPEAT 2018 Registered (Gold)    29WKG    864KE Information,PLACEHOLDER PIECE-PART 
+
+1    490-BHWD NVIDIA RTX A2000, 12 GB GDDR6, 4 mDP to DP adapters (7865)    RCWKF    93KYK SRV,SW,DRVR,QUADRO,WINUX,7865 
+
+1    412-ABCD CPU Heatsink Precision 7865 Tower    V7DT9    K5JWF ASSY,HTSNK,CPU,280W,7865T 
+
+1    340-DCJU Shipping Material (5860, 7865)    W191H    KRKHF SHP MTL,CSHN,EPE,BK,HVAR 
+
+2    449-BBZC M.2 NVME Upper Flexbay Assembly, M.2 NVME Lower Flexbay Assembly (5860, 7865)    169R5    RT46D KEY,HDD,BZL,LOCK-KEY,METAL,P/H 
+
+PURGED INFO PARTS    1    492-BCLP No Additional Port    KHCK5    W21JJ INFO,GNRC,OEM,TRACKING,PN 
+
+PURGED INFO PARTS    1    555-BBNI No Driver    KHCK5    W21JJ INFO,GNRC,OEM,TRACKING,PN 
+
+1    658-BFOF Dell Additional Software    4DTGX    NRGNR SRV,SW,APP,STD,DO 
+
+1    658-BFOF Dell Additional Software    5RV03    0GRTY SRV,SW,EXCAL,WIN-CMPNT,CMRCL 
+
+1    658-BFOF Dell Additional Software    P6XPR    YR2T2 SRV,SW,CRRS,MUI 
+
+SI- NON-ISSUE INFORMATION    1    365-8303 Ready Image for Client PC    1TGKH    0K44X SI,INFO,DYN,IMAGE ASSIST-SI 
+
+INFORMATION ONLY    1    365-8303 Ready Image for Client PC    N1650    X0079 INFO,SI,UPXE 
+
+SI- NON-ISSUE INFORMATION    1    365-8303 Ready Image for Client PC    WR2C8    KVXT4 SI,INFO,CSR,ELIGIBLE 
+
+INFORMATION ONLY    1    620-AALW OS-Windows Media Not Included    MX962    864KE Information,PLACEHOLDER PIECE-PART 
+
+PURGED INFO PARTS    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    0P1H1    X7V4Y INFO,RYLTY,W10,DOLBY5.1,CODEC 
+
+SERVICE INSTALL    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    CD0PV    W728F SRV,OS,IE,INSTALLER 
+
+PURGED INFO PARTS    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    CD0PV    TM318 INFO,SLP2,ENABLE,WINDOWS 
+
+1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    CD0PV    J471G SRV,OS,MUI,INSTALLER 
+
+INFORMATION ONLY    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    H5JGF    PC11K INFO,W11,PRO,W10,DGRD 
+
+PURGED INFO PARTS    1    400-AKZR No Hard Drive    KHCK5    W21JJ INFO,GNRC,OEM,TRACKING,PN 
+
+PURGED INFO PARTS    1    555-BBFO No Wireless LAN Card (no WiFi enablement)    9NFXN    R2WTD INFO,NO-WIRELESS,OPTI 
+
+1    580-ADJC Dell KB216 Wired Keyboard English    7XK29    081N8 KIT,KYBD,104,US,KB216-B,L,WW 
+
+1    490-BHWD NVIDIA RTX A2000, 12 GB GDDR6, 4 mDP to DP adapters (7865)    RCWKF    23VNM SRV,SW,DRVR,A2000,7865 
+
+1    540-BDMH Intel X710 10GbE NIC, Dual Port, Copper    GJVJX    1WYFT CRD,NTWK,INTL,FH,10G,2P,BT 
+
+SCREW    13    321-BHVL Precision 7865 Tower 1350W Chassis (DAO Open Flexbay L5.5)    Y5HHP    3DGWW SCR,6-32X1/4,HX,TF,ZPS,TRI-PT2 
+
+1    780-BCTI M.2 NVME RAID10    H2JG9    DC3CN INFO,FRONT+INT NVMERAID,RAID10 
+
+INFORMATION ONLY    1    340-DCMU M.2 NVME Boot Drive    1CKKT    864KE Information,PLACEHOLDER PIECE-PART 
+
+1    658-BBTV CMS Essentials DVD no Media    R6R97    19G7R SRV,SW,CMS,ESLS,2.X,DVD 
+
+INFORMATION ONLY    1    658-BCSB No Microsoft Office License Included    MTYW0    HR8X9 INFO,WINRE-ADDR,3,GB-PTN 
+
+1    658-BCSB No Microsoft Office License Included    MTYW0    7M1KY SRV,SW,OFFICE,OPK 
+
+SI- NON-ISSUE INFORMATION    1    365-8303 Ready Image for Client PC    C8V50    NNM13 SI,INFO,GI-BIF,IMG 
+
+SI- NON-ISSUE BIOS    1    365-8303 Ready Image for Client PC    GW2VF    0GD17 SI,INFO,BIOS,GENERIC,IMAGE,W10 
+
+SI- NON-ISSUE VALIDATOR INFO    1    378-2291 CFI,Information,WIN 10 PRO,64BIT,Original Equipment Mfgr.,Factory Install    WW7V2    WW7V2 System Integration,Information,WIN 10 PRO,64BIT,Original Equipment Mfgr. 
+
+1    382-1755 CFI,INFO,LANG,ENGLISH,US,Factory Install    WG76W    9G6WV SI,INFO,IMG,LANG,EN,US 
+
+4    370-AHJT 64GB, 4x16GB, DDR4, 3200MHz, RDIMM ECC Memory    WHX0C    M04W6 DIMM,16GB,3200,2RX8,8G,DDR4,R 
+
+1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    DYXFR    85MR7 LBL,GML,MS,OS,WINDOWS11 
+
+ASSY,BEZEL    1    429-ABMU Slim ODD bezel, 100% tie with slim ODD    JXDC4    KWJ9H ASSY,BZL,+BRKT,SLIM ODD,P/H 
+
+4    400-BOGY 512GB, M.2, PCIe NVMe, SSD, Class 40    DTMCY    JNPWN SSDR,512G,G44,80S3,MICRON,3400 
+
+PURGED INFO PARTS    1    650-AAAM No Anti-Virus Software    N3PC0    T5D0W INFO,NO ANTI-VIRUS SW 
+
+1    389-EEUW Precision 7865 Tower Regulatory Label    HK1CJ    KT58Y LBL,REG,1350W,DAO,IFT,7865T 
+
+1    449-BBZC M.2 NVME Upper Flexbay Assembly, M.2 NVME Lower Flexbay Assembly (5860, 7865)    169R5    1DKP4 ASSY,MECH,60F,TOP,2NVME,7865T 
+
+1    780-BCTH M.2 NVME RAID Boot (C3)    92D3P    5G90D INFO,FRONT,PCIE,SSD,BOOT 
+
+PURGED INFO PARTS    1    658-BFOF Dell Additional Software    4P84D    9WV3G INFO,.NET@V,35000,SP1 
+
+SI- NON-ISSUE IMAGE    1    365-8303 Ready Image for Client PC    9U584    J3078 System Integration, Information,Validator,Image, Export Compliance Required 
+
+1    382-3032 CFI,INFO,WIN10,UPDT,21H2.Factory Install    6MGNP    949G5 SI,INFO,IMG,BUILD@19044,21H2 
+
+DPK(AUTOPILOT)    1    634-BRWG Windows AutoPilot    RN3DF    44F2F DPK,AUTOPILOT 
+
+1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    0P1H1    C3TDG SRV,SW,PARTNER-PROMO-TOAST 
+
+PURGED INFO PARTS    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    CD0PV    0616F INFO,BOOT,GPT,OVERRIDE 
+
+PURGED INFO PARTS    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    CD0PV    X0601 INFO,BYPS,UPTN 
+
+SERVICE INSTALL    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    CD0PV    X278C SRV,OS,DOTNET,INSTALLER 
+
+INFORMATION ONLY    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    CD0PV    HNX8N INFO,IE@V,110000 
+
+PURGED INFO PARTS    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    CD0PV    KYWGW INFO,.NET@V,46000 
+
+1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    WMHGD    VPHWT DPK,W11,PRO,PLUS,DGRD 
+
+PURGED INFO PARTS    1    780-BBCJ No SATA RAID    XD40T    GVK8F INFO,NO RAID 
+
+1    340-AGIK SERI Guide (ENG/FR/Multi)    7DDKD    WH67C GDE,PROD,MUI,SERI,DAO 
+
+PURGED INFO PARTS    1    817-BBBC Not selected in this configuration    KHCK5    W21JJ INFO,GNRC,OEM,TRACKING,PN 
+
+4    490-BHWD NVIDIA RTX A2000, 12 GB GDDR6, 4 mDP to DP adapters (7865)    RCWKF    0FKKK ASSY,CBL,LOCK,DP2DP 
+
+1    540-BDMH Intel X710 10GbE NIC, Dual Port, Copper    GJVJX    RFVHV SRV,SW,NTWK,10G BS-T,DP,21H1 
+
+5    321-BHVL Precision 7865 Tower 1350W Chassis (DAO Open Flexbay L5.5)    Y5HHP    P876J SCR,M3X5,PHH,MSCR,NI 
+
+1    340-DCJU Shipping Material (5860, 7865)    W191H    0MX6N SHP MTL,ACC,BOX,546X289X81 
+
+1    340-DCJU Shipping Material (5860, 7865)    W191H    D9D75 SHP MTL,CSHN,EPE,FR,HVAR 
+
+2    449-BBZC M.2 NVME Upper Flexbay Assembly, M.2 NVME Lower Flexbay Assembly (5860, 7865)    169R5    5C9PM ASSY,DR,BAY,M.2,MODULE,PWS 
+
+CORD (POWER)    1    450-AMEB System Power Cord (US 125V, 15A)    JJJ92    2R328 CORD,PWR,15A,125V,5-15/C19 
+
+PURGED INFO PARTS    1    658-BBTV CMS Essentials DVD no Media    5F47M    D5YR4 INFO,RYLTY,DOLBY,ODD,LIC,W8+ 
+
+1    658-BFOF Dell Additional Software    5RV03    G08KV SRV,SW,EXCAL-SOS/DDRE,BASE,CMR 
+
+1    658-BFOF Dell Additional Software    HDNCY    KHPT4 INFO,RYLTY,PRRT,PRMR-CLR,6.0DT 
+
+PURGED INFO PARTS    1    365-8303 Ready Image for Client PC    00025    00025 ******************** 
+
+SERVICE INSTALL    1    365-8303 Ready Image for Client PC    5U269    2T613 Service,Software,Dell,CFI, ALt,PTN 
+
+SERVICE INSTALL    1    365-8303 Ready Image for Client PC    5U269    2T625 Service Charge,Software,Dell, Custom Factory Integration, Parts,Subparser 
+
+SI- NON-ISSUE INFORMATION    1    378-7743 CFI,Information,IMAGE IS WIN10 64BIT,Factory Install    4D01N    3J76W SI,INFO,IMAGE IS WIN10 64BIT 
+
+SI- NON-ISSUE BIOS    1    382-3032 CFI,INFO,WIN10,UPDT,21H2.Factory Install    HM850    DN014 SI,BIOS,VAL 
+
+SERVICE INSTALL    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    0P1H1    GYTDF SRV,SW,WIN10,RDX 
+
+SERVICE INSTALL    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    0P1H1    NGC17 SRV,WINDOWS,REG,PWR 
+
+INFORMATION ONLY    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    417KX    GMFF7 INFO,WIN,PRO 
+
+SERVICE INSTALL    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    CD0PV    T2673 Service Charge,Operating System,Windows XP OCA-MARKER 
+
+PURGED INFO PARTS    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    CD0PV    G424J INFO,XTRA-LANG@V,FR 
+
+PURGED INFO PARTS    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    CD0PV    C858J INFO,XTRA-LANG@V,SPN 
+
+PURGED INFO PARTS    1    340-CBUU SHIP,PWS,LNK,NO,NO,AMF    P969P    149DF INFO,PREP MTL,DEV,PWS,INCRS,#2 
+
+PURGED INFO PARTS    1    340-CBUU SHIP,PWS,LNK,NO,NO,AMF    P969P    702EX INFO,PREP MTL,DEV,PWS,INCRS,#1 
+
+PURGED INFO PARTS    1    461-AABV No Accessories    KHCK5    W21JJ INFO,GNRC,OEM,TRACKING,PN 
+
+PURGED INFO PARTS    1    658-BBTV CMS Essentials DVD no Media    R6R97    4T44R INFO,RYLTY,CMS,ESLS,2.X,DVD 
+
+1    658-BFOF Dell Additional Software    4DTGX    R649X INFO,RYLTY,RIVET,XPRSSCON 
+
+1    658-BFOF Dell Additional Software    P4V68    334CH SRV,SW,APP,SACLIENT 
+
+PURGED INFO PARTS    1    658-BFOF Dell Additional Software    P6XPR    C2N45 INFO,SW,CRRS,UPDATE 
+
+INFORMATION ONLY    1    365-8303 Ready Image for Client PC    5U269    2751P INFO,SW,UPTN,UPG,SV 
+
+SI- NON-ISSUE INFORMATION    1    365-8303 Ready Image for Client PC    5U269    K662H SI,INFO,IMAGE,SCRIPTING GLOBAL 
+
+SI- NON-ISSUE IMAGE    1    365-8303 Ready Image for Client PC    9U584    57906 System Integration,InformationNo Fida Download,Service Part 
+
+SI- NON-ISSUE IMAGE    1    365-8303 Ready Image for Client PC    9U584    8U786 System Integration Software Image,GNRC, Factory,Domestic 
+
+SI- NON-ISSUE BIOS    1    365-8303 Ready Image for Client PC    YV8PT    4VYMJ SI,INFO,GPT BR,PART,DNR 
+
+1    365-8303 Ready Image for Client PC    YV8PT    XP9T9 INFO,BOOT,CNTNR,GPT 
+
+SERVICE INSTALL    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    0P1H1    0RR64 SRV,SW,JUMPSTART,W10 
+
+1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    0P1H1    1WMF4 SRV,OS,DOTNET,INSTALLER,WIN 
+
+1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    CD0PV    025K3 SRV,OS,WIN10,64,MUI,E/F/S 
+
+INFORMATION ONLY    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    CD0PV    PJ289 INFO,VPEPR 
+
+PURGED INFO PARTS    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    CD0PV    G174J INFO,XTRA-LANG@V,ENG 
+
+PURGED INFO PARTS    1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    CD0PV    PY79K INFO,.NET@V,50000 
+
+1    429-ABFH 8x DVD+/-RW 9.5mm Slimline Optical Disk Drive    01W11    PNDVV DVD+/-RW,8X,9.5T,PLDS 
+
+1    340-ACBY Dell Precision TPM    80PHW    TR2C9 INFO,RYLTY,SI,TPM-MIDDLEWARE 
+
+INFORMATION ONLY    1    490-BHWD NVIDIA RTX A2000, 12 GB GDDR6, 4 mDP to DP adapters (7865)    RCWKF    T8K11 INFO,QHD,PANEL,COMMAND 
+
+PURGED INFO PARTS    1    490-BHWD NVIDIA RTX A2000, 12 GB GDDR6, 4 mDP to DP adapters (7865)    RCWKF    P2720 Information,DirectX,90002 
+
+1    490-BHWD NVIDIA RTX A2000, 12 GB GDDR6, 4 mDP to DP adapters (7865)    RCWKF    YDNGM CRD,GRPHC,12GB,A2000,FH 
+
+1    340-DCJU Shipping Material (5860, 7865)    W191H    2DXNF SHP MTL,BOX,RSC,578X308X616,BB 
+
+PURGED INFO PARTS    1    658-BBTV CMS Essentials DVD no Media    CJ0YG    3VK86 INFO,RYLTY,CYB,MPEG2,W8+ 
+
+1    658-BFOF Dell Additional Software    HDNCY    XPF09 SRV,SW,PREMIER,COLOR,6.1 
+
+INFORMATION ONLY    1    365-8303 Ready Image for Client PC    1TGKH    X0079 INFO,SI,UPXE 
+
+1    365-8303 Ready Image for Client PC    JK24N    6641H SI,INFO,ACCOUNT.CFG UPDATE 
+
+SI- NON-ISSUE FEE INTG    1    365-8303 Ready Image for Client PC    NGMM3    NGMM3 SYSTEM INTEGRATION,FEE,READY,IMAGE 
+
+SI- NON-ISSUE INFORMATION    1    365-8303 Ready Image for Client PC    TT199    GX959 SI,INFO,VPE,IMAGE,PROCESS 
+
+1    387-BBLW ENERGY STAR Qualified    P1VMW    07HF9 SRV,DRVR,ESTR,XLOB 
+
+1    570-ABIE Dell Optical Mouse - MS116 (Black)    C1GGN    65K5F KIT,MSE,USB,WW,PE,MS116,L,B,EP 
+
+1    321-BHVL Precision 7865 Tower 1350W Chassis (DAO Open Flexbay L5.5)    Y5HHP    553VG ASSY,CHAS,L5+,BLANK,7865T 
+
+1    340-DCJT Quick Start Guide placemat, 7865 Tower    TT1R7    Y7TRN PLCMT,QSG,PRECISION,7865,WW 
+
+1    658-BFOF Dell Additional Software    4P84D    CPWK1 SRV,SW,DCU,APP,UWP 
+
+1    658-BFOF Dell Additional Software    P4V68    44M13 INFO,.NET@V,60000,WINDOWS 
+
+PURGED INFO PARTS    1    658-BFOF Dell Additional Software    V2M1P    M3C3H INFO,RYLTY,WAVES-MAXX,AUD,PRO 
+
+SI- NON-ISSUE INFORMATION    1    365-8303 Ready Image for Client PC    5U269    K661H SI,INFO,IMAGE,GLOBAL 
+
+SI- NON-ISSUE BIOS    1    382-1755 CFI,INFO,LANG,ENGLISH,US,Factory Install    HM850    DN014 SI,BIOS,VAL 
+
+1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    0P1H1    2H21J SRV,SW,W10,XBOX,TOAST 
+
+1    619-AQDH Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish    CD0PV    XP9T9 INFO,BOOT,CNTNR,GPT 
+
+2    429-ABMU Slim ODD bezel, 100% tie with slim ODD    JXDC4    P876J SCR,M3X5,PHH,MSCR,NI 
+
+PURGED INFO PARTS    1    429-ABGY No External ODD    KHCK5    W21JJ INFO,GNRC,OEM,TRACKING,PN 
+
+LABEL (STANDARD)    1    340-CBUU SHIP,PWS,LNK,NO,NO,AMF    P969P    23501 LBL,BRCD,SYS BOX,GNRC 
+
+PURGED INFO PARTS    1    575-BBCH No Stand included    KHCK5    W21JJ INFO,GNRC,OEM,TRACKING,PN 
+
+1    490-BHWD NVIDIA RTX A2000, 12 GB GDDR6, 4 mDP to DP adapters (7865)    RCWKF    993M7 SRV,SW,DRVR,QUADRO,HSA,7865 
+
+1    321-BHVL Precision 7865 Tower 1350W Chassis (DAO Open Flexbay L5.5)    Y5HHP    DMYN9 ASSY,PWA,PWS,7865T 
+
+PROCESSOR    1    338-CFNF AMD Ryzen Threadripper PRO 5945WX (64 MB cache, 12 cores, 24 threads, 4.1GHz to 4.5GHz, 280 W)    1WCGC    5NG44 PRC,RT,5945WX,12C,280W,4.1G 
+
+Order Details 48 Click to Toggle -- or -- Drag & Drop to reorder  
+
+Order Qty    Commodity    Part    Item #    Item Description 
+
+1    Base System    NDR22 BASE,PWS,7865T,CTO,WW    210-BEXT    Precision 7865 Tower CTO BASE 
+
+1    Bezel    JXDC4 MOD,BZL,W/BRKT,SLIM ODD,P/H    429-ABMU    Slim ODD bezel, 100% tie with slim ODD 
+
+1    Chassis    Y5HHP MOD,CHAS,L5+,BLANK,FMX,7865T    321-BHVL    Precision 7865 Tower 1350W Chassis (DAO Open Flexbay L5.5) 
+
+1    Graphics Card    RCWKF MOD,CRD,GRPHC,A2000,7865    490-BHWD    NVIDIA RTX A2000, 12 GB GDDR6, 4 mDP to DP adapters (7865) 
+
+4    Hard Drive    DTMCY MOD,SSDR,512,G44,80S3,9A1,PWS    400-BOGY    512GB, M.2, PCIe NVMe, SSD, Class 40 
+
+1    Information Only    1CKKT MOD,INFO,M.2 NVME BOOT,FOR SKU    340-DCMU    M.2 NVME Boot Drive 
+
+1    Information Only    29WKG MOD,INFO,EPEAT,GOLD    379-BDZB    EPEAT 2018 Registered (Gold) 
+
+1    Information Only    80PHW MOD,INFO,RYLTY,TPM    340-ACBY    Dell Precision TPM 
+
+1    Information Only    92D3P MOD,INFO,FRONT NVME,RAID BOOT    780-BCTH    M.2 NVME RAID Boot (C3) 
+
+1    Information Only    9NFXN MOD,INFO,NO-WIRELESS,OPTI/PWS    555-BBFO    No Wireless LAN Card (no WiFi enablement) 
+
+1    Information Only    H2JG9 MOD,INFO,FRONT+INT NVME,RAID10    780-BCTI    M.2 NVME RAID10 
+
+2    Information Only    KHCK5 MOD,INFO,GNRC    817-BBBC    Not selected in this configuration 
+
+1    Information Only    KHCK5 MOD,INFO,GNRC    575-BBCH    No Stand included 
+
+1    Information Only    KHCK5 MOD,INFO,GNRC    555-BBNI    No Driver 
+
+1    Information Only    KHCK5 MOD,INFO,GNRC    429-ABGY    No External ODD 
+
+1    Information Only    KHCK5 MOD,INFO,GNRC    461-AABV    No Accessories 
+
+1    Information Only    KHCK5 MOD,INFO,GNRC    492-BCLP    No Additional Port 
+
+2    Information Only    KHCK5 MOD,INFO,GNRC    400-AKZR    No Hard Drive 
+
+1    Information Only    MX962 MOD,INFO,NO OS MEDIA    620-AALW    OS-Windows Media Not Included 
+
+1    Information Only    N3PC0 MOD,INFO,NO ANTI-VIRUS SW    650-AAAM    No Anti-Virus Software 
+
+1    Information Only    XD40T MOD,INFO,NO RAID    780-BBCJ    No SATA RAID 
+
+1    Keyboard    7XK29 MOD,KYBD,104,US,KB216B,P,DBP    580-ADJC    Dell KB216 Wired Keyboard English 
+
+1    Label    HK1CJ MOD,LBL,REG,1350W,DAO,7865T    389-EEUW    Precision 7865 Tower Regulatory Label 
+
+1    Memory    WHX0C MOD,DIMM,64GB,3200,4X16G,RDIMM    370-AHJT    64GB, 4x16GB, DDR4, 3200MHz, RDIMM ECC Memory 
+
+1    MOD,Assy,Mechanical    169R5 MOD,ASSY,MECH,2NVME2MB,7865T    449-BBZC    M.2 NVME Upper Flexbay Assembly, M.2 NVME Lower Flexbay Assembly (5860, 7865) 
+
+1    MOD,Guide    7DDKD MOD,GDE,PROD,MUI,SERI,DAO    340-AGIK    SERI Guide (ENG/FR/Multi) 
+
+1    MOD,Placemat    TT1R7 MOD,PLCMT,QSG,7865T,WW    340-DCJT    Quick Start Guide placemat, 7865 Tower 
+
+1    MOD,Service Install    P1VMW MOD-SRV,DRVR,E-STAR,XLOB    387-BBLW    ENERGY STAR Qualified 
+
+1    MOD,Thermal    V7DT9 MOD,THRM,HTSNK,280W,7865T    412-ABCD    CPU Heatsink Precision 7865 Tower 
+
+1    Mouse    C1GGN MOD,MSE,WW,PE,MS116,L,B,EP,DBP    570-ABIE    Dell Optical Mouse - MS116 (Black) 
+
+1    Network Card    GJVJX MOD,CRD,NTWK,10G BS-T,DP,21H1    540-BDMH    Intel X710 10GbE NIC, Dual Port, Copper 
+
+1    Optical Drive    01W11 MOD,DVD+/-RW,8X,HLDS,BARE,XLOB    429-ABFH    8x DVD+/-RW 9.5mm Slimline Optical Disk Drive 
+
+1    Power Cord    JJJ92 MOD,CORD,PWR,125,15A,3M,US    450-AMEB    System Power Cord (US 125V, 15A) 
+
+1    Processor    1WCGC MOD,PRC,5945WX,4.1G,12C,280W    338-CFNF    AMD Ryzen Threadripper PRO 5945WX (64 MB cache, 12 cores, 24 threads, 4.1GHz to 4.5GHz, 280 W) 
+
+1    Service Contract    94443 SERV,PRMR ACS,PRDFMLY    997-5857    Onsite/In-Home Service After Remote Diagnosis 5 Years 
+
+1    Service Contract    94443 SERV,PRMR ACS,PRDFMLY    997-5852    Dell Limited Hardware Warranty Plus Service 
+
+1    Ship Group    P969P SHIP,PWS,LNK,NO,NO,AMF    340-CBUU    SHIP,PWS,LNK,NO,NO,AMF 
+
+1    Shipping Material    W191H MOD,SHP MTL,PWS,P/H,DAO    340-DCJU    Shipping Material (5860, 7865) 
+
+1    SI- MOD DellPlus    4D01N SI,MOD,INFO,IMG WIN10,64B    378-7743    CFI,Information,IMAGE IS WIN10 64BIT,Factory Install 
+
+1    SI- Non-Issue Validator Info    WW7V2 SI,INFO,WIN 10 PRO,64BIT,OEM    378-2291    CFI,Information,WIN 10 PRO,64BIT,Original Equipment Mfgr.,Factory Install 
+
+1    Software    MTYW0 MOD,SW,OFFICE,MUI,FI    658-BCSB    No Microsoft Office License Included 
+
+1    Software    RN3DF MOD,SW,AUTOPILOT    634-BRWG    Windows AutoPilot 
+
+1    System Exchange    00001 INFO,MKTG GNRC SKU TO PN REF    382-3032    CFI,INFO,WIN10,UPDT,21H2.Factory Install 
+
+1    System Exchange    00001 INFO,MKTG GNRC SKU TO PN REF    382-1755    CFI,INFO,LANG,ENGLISH,US,Factory Install 
+
+1    System Exchange    00001 INFO,MKTG GNRC SKU TO PN REF    365-8303    Ready Image for Client PC 
+
+1    System Exchange    00001 INFO,MKTG GNRC SKU TO PN REF    658-BFOF    Dell Additional Software 
+
+1    System Exchange    00001 INFO,MKTG GNRC SKU TO PN REF    658-BBTV    CMS Essentials DVD no Media 
+
+1    System Exchange    00001 INFO,MKTG GNRC SKU TO PN REF    619-AQDH    Windows 10 Pro (Includes Windows 11 Pro License) English, French, Spanish 
+
+Non PPID Data 6 Click to Toggle -- or -- Drag & Drop to reorder  
+
+Part #    Commodity    NON-PPID Data Value    Part Description 
+
+M04W6    Memory    P0 CHANNEL C DIMM 1,16384,3200,Hynix,HMA82GR7DJR8N-XN,9679EC07,2230,01,Hynix,Rambus,22    DIMM,16GB,3200,2RX8,8G,DDR4,R 
+
+M04W6    Memory    P0 CHANNEL H DIMM 4,16384,3200,Hynix,HMA82GR7DJR8N-XN,9679EB33,2230,01,Hynix,Rambus,22    DIMM,16GB,3200,2RX8,8G,DDR4,R 
+
+M04W6    Memory    P0 CHANNEL D DIMM 2,16384,3200,Hynix,HMA82GR7DJR8N-XN,9679EB55,2230,01,Hynix,Rambus,22    DIMM,16GB,3200,2RX8,8G,DDR4,R 
+
+M04W6    Memory    P0 CHANNEL G DIMM 3,16384,3200,Hynix,HMA82GR7DJR8N-XN,9679EB2D,2230,01,Hynix,Rambus,22    DIMM,16GB,3200,2RX8,8G,DDR4,R 
+
+DMYN9    Motherboard    B483510192DB    ASSY,PWA,PWS,7865T 
+
+DMYN9    Motherboard    00BE43BD59BA    ASSY,PWA,PWS,7865T 
+
+Related Order Data 2 Click to Toggle -- or -- Drag & Drop to reorder  
+
+Dell Purchase ID    Order Number    BUID    System Qty    Product Family    Product Description    Expand 
+
+2009459307483    596969343    11    1    PANTHER    Precision Desktops     
+
+2009459307483    596969350    11    1    U2723Q (Group)    Displays     
+
+Search Results 
+
+0 Entitlements 
+
+74 Call Text 
+
+22 PPIDS 
+
+4 DIMM SPD Data 
+
+161 Service Tag Components 
+
+48 Order Details 
+
+6 Non PPID Data 
+
+2 Related Order Data 
+
+Show Sorting Toolips 
+
+© 2023 - Internal Use Only 
+
+Quality Data and Tools Team - Austin, TX  
