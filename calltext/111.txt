@@ -1,0 +1,17 @@
+DATEADD (Transact-SQL)
+Article
+12/29/2022
+15 contributors
+In this article
+Syntax
+Arguments
+Return types
+Return Value
+Show 9 more
+Applies to:  SQL Server  Azure SQL Database  Azure SQL Managed Instance  Azure Synapse Analytics  Analytics Platform System (PDW)
+
+This function adds a number (a signed integer) to a datepart of an input date, and returns a modified date/time value. For example, you can use this function to find the date that is 7000 minutes from today: number = 7000, datepart = minute, date = today.
+
+See Date and Time Data Types and Functions (Transact-SQL) for an overview of all Transact-SQL date and time data types and functions.
+
+ Transact-SQL syntax conventions
