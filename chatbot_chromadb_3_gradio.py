@@ -24,11 +24,11 @@ vectordb = Chroma(persist_directory=persist_directory,embedding_function=embeddi
 retriever = vectordb.as_retriever()
 
 qa_chain = RetrievalQA.from_chain_type(
-    llm=OpenAI(openai_api_key=OPENAI_API_KEY),
+    llm=OpenAI(model_name='gpt-3.5-turbo', openai_api_key=OPENAI_API_KEY),
     chain_type="stuff",
     retriever=retriever,
     return_source_documents=True)
-
+    
 def process_llm_response(llm_response):    
     rtn = llm_response['result']
     rtn += '\n\nSources:\n'
