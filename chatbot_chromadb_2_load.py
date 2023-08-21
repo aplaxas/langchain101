@@ -6,17 +6,18 @@ from langchain.chains import RetrievalQA
 from langchain.document_loaders import TextLoader, UnstructuredPDFLoader
 from langchain.document_loaders import DirectoryLoader
 
+with open('api_key.txt', 'r') as f:
+    OPENAI_API_KEY = f.readline().split('=')[1].strip()
+    HUGGINGFACEHUB_API_TOKEN = f.readline().split('=')[1].strip()
+    SERPAPI_API_KEY = f.readline().split('=')[1].strip()
+    PINECONE_API_KEY = f.readline().split('=')[1].strip()
 
-OPENAI_API_KEY = "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"
 embedding = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
 
 persist_directory = 'db'
-vectordb = Chroma(
-    persist_directory=persist_directory,
-    embedding_function=embedding)
+vectordb = Chroma(persist_directory=persist_directory,embedding_function=embedding)
 
 retriever = vectordb.as_retriever()
-
 
 qa_chain = RetrievalQA.from_chain_type(
     llm=OpenAI(openai_api_key=OPENAI_API_KEY),
@@ -31,7 +32,6 @@ def process_llm_response(llm_response):
     for source in llm_response["source_documents"]:
         print(source.metadata['source'])
 
-
-query = "When Pedestrian Warning System is activated, what is the maximum speed?"
+query = "which model is loggest overall length?"
 llm_response = qa_chain(query)
 process_llm_response(llm_response)
