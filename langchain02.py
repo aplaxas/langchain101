@@ -8,7 +8,7 @@ from langchain.schema import (
 )
 
 #@markdown https://platform.openai.com/account/api-keys
-OPENAI_API_KEY = "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" #@param {type:"string"}
+OPENAI_API_KEY = "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" #@param {type:"string"}
 
 #@markdown https://huggingface.co/settings/tokens
 HUGGINGFACEHUB_API_TOKEN = "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" #@param {type:"string"}
