@@ -1,5 +1,7 @@
 tesla
 db
 esg
+data
+data/*.*
 
 api_key.txt

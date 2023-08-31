@@ -14,7 +14,7 @@
     "**/.project": true,
     "**/.settings": true,
     "**/.factorypath": true,
-    "db": true
+    "db": false
   },
   "explorerExclude.backup": {}
 }
