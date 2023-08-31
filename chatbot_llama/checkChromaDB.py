@@ -4,11 +4,13 @@ from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores import Chroma
 
-embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/all-MiniLM-L6-v2')
+embeddings = HuggingFaceEmbeddings(
+    model_name='sentence-transformers/all-MiniLM-L6-v2')
 
 persist_directory = './db/calltext/'
-vectordb = Chroma(persist_directory=persist_directory,embedding_function=embeddings)
+vectordb = Chroma(persist_directory=persist_directory,
+                  embedding_function=embeddings)
 
-query = "DPS# 437990211 SR# 161815423 CALL# 00T6P00000CCB1NUAW "
+query = "DPS# 748700319"
 docs = vectordb.similarity_search(query)
-print(docs[0].page_content)
+print(docs)
