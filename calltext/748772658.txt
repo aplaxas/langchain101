@@ -1,0 +1,2105 @@
+  
+
+Service Tag Lookup 
+
+GL 
+
+1IT Maintenance : IT is undergoing required capacity updates which will delay some daily data updates and prevent some app features from working (8/22-8/24) 
+
+695TWX3 
+
+  
+
+If you are facing issues with entitlements or service tag components, try the alternate app Asset search https://quality.dell.com/Asset/695TWX3 
+
+  
+
+695TWX3 
+
+Product:    KYOTOPSFF 
+
+PRECISION 3460 
+
+KYOTOPSFFCTO 
+
+Ship Date:    6/24/2023 
+
+Order #:     
+
+Customer:    0 
+
+TURNKEY COMPUTER SYSTEMS, LLC 
+
+Customer BU:    (0) 
+
+Account:     
+
+Delta:     
+
+Order BU:    (0) 
+
+City:    AMARILLO 
+
+Country:    United States 
+
+Tag Life () Click to Toggle -- or -- Drag & Drop to reorder  
+
+Entitlements 0 Click to Toggle -- or -- Drag & Drop to reorder  
+
+Contract    Order Num    BU    Start Date    End Date    Item Num    Description    Entitlement Type    Contract Status 
+
+Call Text 27 Click to Toggle -- or -- Drag & Drop to reorder  
+
+Timestamp    Call Text 
+
+07/31/23 
+
+03:07 PM 
+
+DPS# 748772658 SR# 173052806 CALL# 00T6P00000JDH2JUAA 
+
+SFDC# 173052806 
+
+Chat 
+
+Power and Startup 
+
+Next Activity Added to this Call_Text!! 00T6P00000n0poSUAQ #BeginSolutionLogging 
+
+start_time_utc: 2023-07-31 15:11:01 | 
+
+session_id: daf18975-ab61-4762-be5a-e9cc7f9f0836 | 
+
+language: en | 
+
+asst_id: 695TWX3 | 
+
+Active open case: 173052806 | 
+
+lob_desc: Precision Desktops | 
+
+brand_desc: PRECISION 3460 | 
+
+BKC status: False | 
+
+Symptom Description: no post | 
+
+Keywords: no, post | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+External ID: NOT-AVAILABLE | 
+
+Next Best Action Recommendations: 
+
+Follow Guided  
+
+  
+
+Solution: No Post Troubleshooting | 
+
+Feedback: YES | 
+
+Flow Title: T0060 No POST |  
+
+External ID: 17072637 |  
+
+NBA-Link clicked: Yes |  
+
+Known Resolution Recommended: 211732,192037,184541,200870 | 
+
+------------------------------------------- 
+
+Internal notes:  
+
+CUSTOMER ISSUE: 
+
+- System receives power but solid white power light no dell logo or bios, no post 
+
+codes, no video 
+
+TROUBLESHOOTING: 
+
+- have moved it to a different power source, tried a different monitor. When you plug it in it goes to a solid white power light but nothing else 
+
+-removed the ram and got the 3 amber 1 white light indicating no memory/erro 
+
+-replaced the memory and no change 
+
+-i removed the cmos battery and received the error code that there was a problem there 
+
+-i powered off and held the power button for 30 seconds 
+
+-it flashed a few times and shutdown. powered it back on and still solid white power button, no video no post 
+
+- no damage  
+
+Bios recovery - unresolved  
+
+- 
+
+RESOLUTION:R1 Replace Motherboard 
+
+------------------------------------------- 
+
+end_time_utc: 2023-07-31 15:26:55 | 
+
+#EndSolutionLogging 
+
+                                                     
+
+07/31/23 
+
+03:26 PM 
+
+SR# 173052806 CALL# 00T6P00000N0POSUAQ 
+
+SFDC# 173052806 
+
+No Contact 
+
+#BeginSolutionLogging 
+
+start_time_utc: 2023-07-31 15:11:01 | 
+
+session_id: daf18975-ab61-4762-be5a-e9cc7f9f0836 | 
+
+language: en | 
+
+asst_id: 695TWX3 | 
+
+Active open case: 173052806 | 
+
+lob_desc: Precision Desktops | 
+
+brand_desc: PRECISION 3460 | 
+
+BKC status: False | 
+
+Symptom Description: no post | 
+
+Keywords: no, post | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+External ID: NOT-AVAILABLE | 
+
+Next Best Action Recommendations: 
+
+Follow Guided  
+
+  
+
+Solution: No Post Troubleshooting | 
+
+Feedback: YES | 
+
+Flow Title: T0060 No POST |  
+
+External ID: 17072637 |  
+
+NBA-Link clicked: Yes |  
+
+Known Resolution Recommended: 211732,192037,184541,200870 | 
+
+------------------------------------------- 
+
+Internal notes:  
+
+CUSTOMER ISSUE: 
+
+- System receives power but solid white power light no dell logo or bios, no post 
+
+codes, no video 
+
+TROUBLESHOOTING: 
+
+- have moved it to a different power source, tried a different monitor. When you plug it in it goes to a solid white power light but nothing else 
+
+-removed the ram and got the 3 amber 1 white light indicating no memory/erro 
+
+-replaced the memory and no change 
+
+-i removed the cmos battery and received the error code that there was a problem there 
+
+-i powered off and held the power button for 30 seconds 
+
+-it flashed a few times and shutdown. powered it back on and still solid white power button, no video no post 
+
+- no damage  
+
+Bios recovery - unresolved  
+
+- 
+
+RESOLUTION:R1 Replace Motherboard 
+
+------------------------------------------- 
+
+end_time_utc: 2023-07-31 15:26:55 | 
+
+#EndSolutionLogging 
+
+                                                     
+
+07/31/23 
+
+03:33 PM 
+
+SR# 173052806 CALL# 00T6P00000JDHIAUAA 
+
+SFDC# 173052806 
+
+No Contact 
+
+Motherboard was not in DTC automation so had to create manually. 
+
+                                                     
+
+07/31/23 
+
+03:49 PM 
+
+SR# 173052806 CALL# A-4Y5SEZTP 
+
+SFDC# 173052806 
+
+Break Fix 
+
+Customer: Power and Startup 
+
+                                                     
+
+07/31/23 
+
+08:50 PM 
+
+SR# 173052806 CALL# 00T6P00000NOK5KUAG 
+
+SFDC# 173052806 
+
+No Contact 
+
+reopen the case due to CID distress(Part Backlog - No GCC Communication logs (ETA Not Available);) by the E2E case management automation product 
+
+                                                     
+
+08/02/23 
+
+01:41 PM 
+
+SR# 173052806 CALL# 00T6P00000N2FCWUA2 
+
+SFDC# 173052806 
+
+No Contact 
+
+#BeginSolutionLogging 
+
+start_time_utc: 2023-08-02 13:41:01 | 
+
+session_id: 2b7beb2f-b078-42fd-8891-b227ea05d6c2 | 
+
+language: en | 
+
+asst_id: 695TWX3 | 
+
+Active open case: 173052806 | 
+
+lob_desc: Precision Desktops | 
+
+brand_desc: PRECISION 3460 | 
+
+BKC status: False | 
+
+Symptom Description: Dispatch Status and Part Backlog | 
+
+Keywords: dispatch, status, part, backlog | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+External ID: NOT-AVAILABLE | 
+
+Next Best Action Recommendations: 
+
+PNA: Part is in backlog - under CID monitoring. No action required. Wait time upto 3 days | 
+
+Feedback: YES | 
+
+Flow Title:  |  
+
+External ID: NOT-AVAILABLE |  
+
+NBA-Link clicked: NA |  
+
+Known Resolution Recommended: 211415,177278 | 
+
+end_time_utc: 2023-08-02 13:41:24 | 
+
+#EndSolutionLogging 
+
+                                                     
+
+08/02/23 
+
+01:42 PM 
+
+SR# 173052806 CALL# 00T6P00000JEQFWUA2 
+
+SFDC# 173052806 
+
+No Contact 
+
+From DTC -PNA: Part is in backlog - under CID monitoring. No action required. Wait time up to 3 days  -- Checking again on Friday 
+
+                                                     
+
+08/04/23 
+
+12:59 PM 
+
+SR# 173052806 CALL# 00T6P00000JF9ZKUAI 
+
+SFDC# 173052806 
+
+No Contact 
+
+waiting until Monday to update cx because DTC states this is last day for unknown ETA for BO 
+
+                                                     
+
+08/04/23 
+
+01:01 PM 
+
+SR# 173052806 CALL# 00T6P00000JF9KGUAQ 
+
+SFDC# 173052806 
+
+Customer Outbound 
+
+Additional To: nathan@turnkeynet.com 
+
+CC:  
+
+BCC:  
+
+Attachment: Subject: Dell Support: SR# 1139054026 from Gemela Kelly | ST: 695TWX3 [ ref:_00D0bGaMp._5006PDvKqU:ref ] 
+
+Body: 
+
+Service Request: 1139054026 
+
+Contact Us | Support Library | Download Center | SupportAssist | Community Forums 
+
+** Please use Reply to All when replying to this email ** 
+
+Good Morning  Nathan, 
+
+Asset is at ARC and is on delay due to part being out of stock. As soon as I get ETA I will email you.  
+
+Thank you for choosing Dell Technologies. 
+
+Gemela Kelly 
+
+Senior Technician, Technical Support 
+
+Dell Technologies | Pro Support 
+
+Gemela.Kelly@Dell.com 
+
+Working Hours: 7am-4pm CST 
+
+Customer Feedback | How am I doing? Please contact robyn_seippel@dell.com 
+
+ref:_00D0bGaMp._5006PDvKqU:ref 
+
+                                                     
+
+08/04/23 
+
+01:12 PM 
+
+SR# 173052806 CALL# 00T6P00000NX1TUUAC 
+
+SFDC# 173052806 
+
+Customer Inbound 
+
+TO: technical_support@help.dell.com 
+
+FROM: nathan.haskell@turnkeynet.com 
+
+SUBJECT: Re: Dell Support: SR# 1139054026 from Gemela Kelly | ST: 695TWX3 [ ref:_00D0bGaMp._5006PDvKqU:ref ] 
+
+DATE&TIME: 2023-08-04 13:12:38 
+
+BODY: [EXTERNAL EMAIL] Thank you for the update 
+
+Thank you, 
+
+Nathan 
+
+Nathan Haskell | Turnkey Financial Hardware Support | Turnkey Computer  
+
+Systems, LLC. | turnkeynet.com 
+
+(w) 806.372.1200 | Toll free 1-800-999-0049 | nathan@turnkeynet.com 
+
+TRUSTED EXPERTISE. UNRIVALED SUPPORT.™ 
+
+Animal Health International a Patterson Company. 
+
+On 8/4/2023 8:01 AM, Dell Tech Support wrote: 
+
+> 
+
+> Dell Technologies 
+
+> 
+
+> *Service Request: **1139054026* 
+
+> 
+
+> Contact Us <http://www.dell.com/support/incidents-online/contactus> >  | Support Library  
+
+> <http://www.dell.com/support/Contents/us/en/04/category/Product-Support/Self-support-Knowledgebase> >  | Download Center  
+
+> <http://www.dell.com/support/contents/category/Product-Support/Self-support-Knowledgebase/software-and-downloads> >  | SupportAssist  
+
+> <http://www.dell.com/en-us/work/learn/supportassist-pcs-tablets> |  
+
+> Community Forums  
+
+> <https://www.dell.com/community/Dell-Community/ct-p/English> 
+
+> 
+
+> ** Please use Reply to All when replying to this email ** 
+
+> 
+
+> 
+
+> Good Morning  Nathan, 
+
+> 
+
+> Asset is at ARC and is on delay due to part being out of stock. As  
+
+> soon as I get ETA I will email you. 
+
+> *Thank you for choosing Dell Technologies.* 
+
+> 
+
+> 
+
+> Gemela Kelly 
+
+> Senior Technician, Technical Support 
+
+> Dell Technologies | Pro Support 
+
+> Gemela.Kelly@Dell.com 
+
+> Working Hours: 7am-4pm CST 
+
+> Customer Feedback | How am I doing? Please contact robyn_seippel@dell.com 
+
+> 
+
+> ref:_00D0bGaMp._5006PDvKqU:ref 
+
+                                                     
+
+08/04/23 
+
+06:48 PM 
+
+SR# 173052806 CALL# 00T6P00000NENPNUAY 
+
+SFDC# 173052806 
+
+Customer Outbound 
+
+Additional To: nathan.haskell@turnkeynet.com 
+
+CC:  
+
+BCC:  
+
+Attachment: Subject: Dell Support: SR# 1139054026 from Gemela Kelly | ST: 695TWX3 [ ref:_00D0bGaMp._5006PDvKqU:ref ] 
+
+Body: 
+
+Service Request: 1139054026 
+
+Contact Us | Support Library | Download Center | SupportAssist | Community Forums 
+
+** Please use Reply to All when replying to this email ** 
+
+Hi Nathan, 
+
+Asset has delay on it due to part not in stock ETA for part 11/14/23.  Because ETA is so far out we would like to offer you a system exchange. If you would like to continue with waiting for part let us know. But if you want exchange reply back to this email with this information attached.  
+
+A picture of the Service tag next to a hand written note with the following(this is all in one picture) 
+
+Handwritten note will have to include = Service tag +first and last name +Date + case number Thank you for choosing Dell Technologies. 
+
+Gemela Kelly 
+
+Senior Technician, Technical Support 
+
+Dell Technologies | Pro Support 
+
+Gemela.Kelly@Dell.com 
+
+Working Hours: 7am-4pm CST 
+
+Customer Feedback | How am I doing? Please contact robyn_seippel@dell.com 
+
+--------------- Original Message --------------- 
+
+From: Nathan Haskell [nathan.haskell@turnkeynet.com] 
+
+Sent: 8/4/2023 8:12 AM 
+
+To: technical_support@help.dell.com 
+
+Subject: Re: Dell Support: SR# 1139054026 from Gemela Kelly | ST: 695TWX3 [ ref:_00D0bGaMp._5006PDvKqU:ref ] 
+
+[EXTERNAL EMAIL] Thank you for the update 
+
+Thank you, 
+
+Nathan Nathan Haskell | Turnkey Financial Hardware Support | Turnkey Computer Systems, LLC. | turnkeynet.com 
+
+(w) 806.372.1200 | Toll free 1-800-999-0049 | nathan@turnkeynet.com 
+
+TRUSTED EXPERTISE. UNRIVALED SUPPORT.™ 
+
+Animal Health International a Patterson Company. 
+
+On 8/4/2023 8:01 AM, Dell Tech Support wrote: Service Request: 1139054026 
+
+Contact Us | Support Library | Download Center | SupportAssist | Community Forums 
+
+** Please use Reply to All when replying to this email ** 
+
+Good Morning  Nathan, 
+
+Asset is at ARC and is on delay due to part being out of stock. As soon as I get ETA I will email you.  
+
+Thank you for choosing Dell Technologies. 
+
+Gemela Kelly 
+
+Senior Technician, Technical Support 
+
+Dell Technologies | Pro Support 
+
+Gemela.Kelly@Dell.com 
+
+Working Hours: 7am-4pm CST 
+
+Customer Feedback | How am I doing? Please contact robyn_seippel@dell.com 
+
+ref:_00D0bGaMp._5006PDvKqU:ref 
+
+                                                     
+
+08/04/23 
+
+06:49 PM 
+
+SR# 173052806 CALL# 00T6P00000NXBQFUA4 
+
+SFDC# 173052806 
+
+No Contact 
+
+#BeginSolutionLogging 
+
+start_time_utc: 2023-08-04 18:45:31 | 
+
+session_id: 150a1889-f54e-4719-8dc7-5ab93f8fe498 | 
+
+language: en | 
+
+asst_id: 695TWX3 | 
+
+Active open case: 173052806 | 
+
+lob_desc: Precision Desktops | 
+
+brand_desc: PRECISION 3460 | 
+
+BKC status: False | 
+
+Symptom Description: Dispatch Status and Part Backlog | 
+
+Keywords: dispatch, status, part, backlog | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+External ID: NOT-AVAILABLE | 
+
+Next Best Action Recommendations: 
+
+Follow Guided  
+
+  
+
+Solution: System Exchange – Part Not Available (PNA) Policy | 
+
+Feedback: YES | 
+
+Flow Title: T7700 System Exchange – Part Not Available (PNA) Policy |  
+
+External ID: 17214358 |  
+
+NBA-Link clicked: Yes |  
+
+Known Resolution Recommended: 211415,177278 | 
+
+------------------------------------------- 
+
+Internal notes:  
+
+ETA for the requested part is longer than the system exchange threshold. Make sure you refer to the NBA recommendation on DTC for any exchange verification or approval. 
+
+Part ETA: Nov 13, 2023 
+
+Exchange threshold: Aug 22, 2023 
+
+-R1 Customer is Eligible for a System Exchange. 
+
+------------------------------------------- 
+
+end_time_utc: 2023-08-04 18:49:31 | 
+
+#EndSolutionLogging 
+
+                                                     
+
+08/04/23 
+
+06:49 PM 
+
+SR# 173052806 CALL# 00T6P00000NXBOOUAO 
+
+SFDC# 173052806 
+
+No Contact 
+
+#BeginSolutionLogging 
+
+start_time_utc: 2023-08-04 18:45:31 | 
+
+session_id: 150a1889-f54e-4719-8dc7-5ab93f8fe498 | 
+
+language: en | 
+
+asst_id: 695TWX3 | 
+
+Active open case: 173052806 | 
+
+lob_desc: Precision Desktops | 
+
+brand_desc: PRECISION 3460 | 
+
+BKC status: False | 
+
+Symptom Description: Dispatch Status and Part Backlog | 
+
+Keywords: dispatch, status, part, backlog | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+External ID: NOT-AVAILABLE | 
+
+Next Best Action Recommendations: 
+
+Follow Guided  
+
+  
+
+Solution: System Exchange – Part Not Available (PNA) Policy | 
+
+Feedback: YES | 
+
+Flow Title: T7700 System Exchange – Part Not Available (PNA) Policy |  
+
+External ID: 17214358 |  
+
+NBA-Link clicked: Yes |  
+
+Known Resolution Recommended: 211415,177278 | 
+
+------------------------------------------- 
+
+Internal notes:  
+
+ETA for the requested part is longer than the system exchange threshold. Make sure you refer to the NBA recommendation on DTC for any exchange verification or approval. 
+
+Part ETA: Nov 13, 2023 
+
+Exchange threshold: Aug 22, 2023 
+
+-R1 Customer is Eligible for a System Exchange. 
+
+------------------------------------------- 
+
+end_time_utc: 2023-08-04 18:49:40 | 
+
+#EndSolutionLogging 
+
+                                                     
+
+08/04/23 
+
+07:38 PM 
+
+SR# 173052806 CALL# 00T6P00000NQ0WOUAK 
+
+SFDC# 173052806 
+
+Customer Inbound 
+
+TO: technical_support@help.dell.com 
+
+CC: gemela.kelly@dell.com 
+
+FROM: nathan.haskell@turnkeynet.com 
+
+SUBJECT: Re: Dell Support: SR# 1139054026 from Gemela Kelly | ST: 695TWX3 [ ref:_00D0bGaMp._5006PDvKqU:ref ] 
+
+DATE&TIME: 2023-08-04 19:38:22 
+
+BODY: [EXTERNAL EMAIL] We would like to exchange the unit.  Where do I find the case number? 
+
+All I have are 2 different Service request numbers: 
+
+SR# 1139054026 on this email and 
+
+SR# 173052806 on the Dell support website 
+
+Thank you, 
+
+Nathan 
+
+Nathan Haskell | Turnkey Financial Hardware Support | Turnkey Computer  
+
+Systems, LLC. | turnkeynet.com 
+
+(w) 806.372.1200 | Toll free 1-800-999-0049 | nathan@turnkeynet.com 
+
+TRUSTED EXPERTISE. UNRIVALED SUPPORT.™ 
+
+Animal Health International a Patterson Company. 
+
+On 8/4/2023 1:49 PM, Dell Tech Support wrote: 
+
+> 
+
+> Dell Technologies 
+
+> 
+
+> *Service Request: **1139054026* 
+
+> 
+
+> Contact Us <http://www.dell.com/support/incidents-online/contactus> >  | Support Library  
+
+> <http://www.dell.com/support/Contents/us/en/04/category/Product-Support/Self-support-Knowledgebase> >  | Download Center  
+
+> <http://www.dell.com/support/contents/category/Product-Support/Self-support-Knowledgebase/software-and-downloads> >  | SupportAssist  
+
+> <http://www.dell.com/en-us/work/learn/supportassist-pcs-tablets> |  
+
+> Community Forums  
+
+> <https://www.dell.com/community/Dell-Community/ct-p/English> 
+
+> 
+
+> ** Please use Reply to All when replying to this email ** 
+
+> 
+
+> 
+
+> Hi Nathan, 
+
+> 
+
+> Asset has delay on it due to part not in stock ETA for part 11/14/23. > Because ETA is so far out we would like to offer you a system  
+
+> exchange. If you would like to continue with waiting for part let us  
+
+> know. But if you want exchange reply back to this email with this  
+
+> information attached. 
+
+> A picture of the Service tag next to a hand written note with the  
+
+> following(this is all in one picture) 
+
+> Handwritten note will have to include = Service tag +first and last  
+
+> name +Date + case number 
+
+> 
+
+> *Thank you for choosing Dell Technologies.* 
+
+> 
+
+> 
+
+> Gemela Kelly 
+
+> Senior Technician, Technical Support 
+
+> Dell Technologies | Pro Support 
+
+> Gemela.Kelly@Dell.com 
+
+> Working Hours: 7am-4pm CST 
+
+> Customer Feedback | How am I doing? Please contact robyn_seippel@dell.com 
+
+> 
+
+> 
+
+> --------------- Original Message --------------- 
+
+> *From:* Nathan Haskell [nathan.haskell@turnkeynet.com] 
+
+> *Sent:* 8/4/2023 8:12 AM 
+
+> *To:* technical_support@help.dell.com 
+
+> *Subject:* Re: Dell Support: SR# 1139054026 from Gemela Kelly | ST:  
+
+> 695TWX3 [ ref:_00D0bGaMp._5006PDvKqU:ref ] 
+
+> 
+
+> [EXTERNAL EMAIL] 
+
+> 
+
+> Thank you for the update 
+
+> 
+
+> Thank you, 
+
+> Nathan 
+
+> 
+
+> Nathan Haskell | Turnkey Financial Hardware Support | Turnkey Computer  
+
+> Systems, LLC. | turnkeynet.com 
+
+> (w) 806.372.1200 | Toll free 1-800-999-0049 | nathan@turnkeynet.com 
+
+> TRUSTED EXPERTISE. UNRIVALED SUPPORT.™ 
+
+> 
+
+> Animal Health International a Patterson Company. 
+
+> 
+
+> On 8/4/2023 8:01 AM, Dell Tech Support wrote: 
+
+> 
+
+> Dell Technologies 
+
+> 
+
+> *Service Request: **1139054026* 
+
+> 
+
+> Contact Us <http:// 
+
+                                                     
+
+08/04/23 
+
+07:46 PM 
+
+SR# 173052806 CALL# 00T6P00000NEOGUUAI 
+
+SFDC# 173052806 
+
+Customer Outbound 
+
+Additional To: nathan.haskell@turnkeynet.com 
+
+CC:  
+
+BCC:  
+
+Attachment: Subject: Dell Support: SR# 1139054026 from Gemela Kelly | ST: 695TWX3 [ ref:_00D0bGaMp._5006PDvKqU:ref ] 
+
+Body: 
+
+Service Request: 1139054026 
+
+Contact Us | Support Library | Download Center | SupportAssist | Community Forums 
+
+** Please use Reply to All when replying to this email ** 
+
+Hi Nathan, 
+
+This would be the case number 173052806  . Please reply back to this email with information so emails can be on case. 
+
+Thank you for choosing Dell Technologies. 
+
+Gemela Kelly 
+
+Senior Technician, Technical Support 
+
+Dell Technologies | Pro Support 
+
+Gemela.Kelly@Dell.com 
+
+Working Hours: 7am-4pm CST 
+
+Customer Feedback | How am I doing? Please contact robyn_seippel@dell.com 
+
+--------------- Original Message --------------- 
+
+From: Nathan Haskell [nathan.haskell@turnkeynet.com] 
+
+Sent: 8/4/2023 2:38 PM 
+
+To: technical_support@help.dell.com 
+
+Cc: gemela.kelly@dell.com 
+
+Subject: Re: Dell Support: SR# 1139054026 from Gemela Kelly | ST: 695TWX3 [ ref:_00D0bGaMp._5006PDvKqU:ref ] 
+
+[EXTERNAL EMAIL] We would like to exchange the unit.  Where do I find the case number? 
+
+All I have are 2 different Service request numbers: 
+
+SR# 1139054026 on this email and 
+
+SR# 173052806 on the Dell support website Thank you, 
+
+Nathan Nathan Haskell | Turnkey Financial Hardware Support | Turnkey Computer Systems, LLC. | turnkeynet.com 
+
+(w) 806.372.1200 | Toll free 1-800-999-0049 | nathan@turnkeynet.com 
+
+TRUSTED EXPERTISE. UNRIVALED SUPPORT.™ 
+
+Animal Health International a Patterson Company. 
+
+On 8/4/2023 1:49 PM, Dell Tech Support wrote: Service Request: 1139054026 
+
+Contact Us | Support Library | Download Center | SupportAssist | Community Forums 
+
+** Please use Reply to All when replying to this email ** 
+
+Hi Nathan, 
+
+Asset has delay on it due to part not in stock ETA for part 11/14/23.  Because ETA is so far out we would like to offer you a system exchange. If you would like to continue with waiting for part let us know. But if you want exchange reply back to this email with this information attached.  
+
+A picture of the Service tag next to a hand written note with the following(this is all in one picture) 
+
+Handwritten note will have to include = Service tag +first and last name +Date + case number Thank you for choosing Dell Technologies. 
+
+Gemela Kelly 
+
+Senior Technician, Technical Support 
+
+Dell Technologies | Pro Support 
+
+Gemela.Kelly@Dell.com 
+
+Working Hours: 7am-4pm CST 
+
+Customer Feedback | How am I doing? Please contact robyn_seippel@dell.com 
+
+--------------- Original Message --------------- 
+
+From: Nathan Haskell [nathan.haskell@turnkeynet.com] 
+
+Sent: 8/4/2023 8:12 AM 
+
+To: technical_support@help.dell.com 
+
+Subject: Re: Dell Support: SR# 1139054026 from Gemela Kelly | ST: 695TWX3 [ ref:_00D0bGaMp._5006PDvKqU:ref ] 
+
+[EXTERNAL EMAIL] Thank you for the update 
+
+Thank you, 
+
+Nathan Nathan Haskell | Turnkey Financial Hardware Support | Turnkey Computer Systems, LLC. | turnkeynet.com 
+
+(w) 806.372. 
+
+                                                     
+
+08/04/23 
+
+07:55 PM 
+
+SR# 173052806 CALL# 00T6P00000NQ2MFUAK 
+
+SFDC# 173052806 
+
+Customer Inbound 
+
+TO: technical_support@help.dell.com; nathan.haskell@turnkeynet.com 
+
+FROM: nathan.haskell@turnkeynet.com 
+
+SUBJECT: Re: Dell Support: SR# 1139054026 from Gemela Kelly | ST: 695TWX3 [ ref:_00D0bGaMp._5006PDvKqU:ref ] 
+
+DATE&TIME: 2023-08-04 19:55:09 
+
+BODY: [EXTERNAL EMAIL] Requested info for system exchange. 
+
+Thank you, 
+
+Nathan 
+
+Nathan Haskell | Turnkey Financial Hardware Support | Turnkey Computer  
+
+Systems, LLC. | turnkeynet.com 
+
+(w) 806.372.1200 | Toll free 1-800-999-0049 | nathan@turnkeynet.com 
+
+TRUSTED EXPERTISE. UNRIVALED SUPPORT.™ 
+
+Animal Health International a Patterson Company. 
+
+On 8/4/2023 2:46 PM, Dell Tech Support wrote: 
+
+> 
+
+> Dell Technologies 
+
+> 
+
+> *Service Request: **1139054026* 
+
+> 
+
+> Contact Us <http://www.dell.com/support/incidents-online/contactus> >  | Support Library  
+
+> <http://www.dell.com/support/Contents/us/en/04/category/Product-Support/Self-support-Knowledgebase> >  | Download Center  
+
+> <http://www.dell.com/support/contents/category/Product-Support/Self-support-Knowledgebase/software-and-downloads> >  | SupportAssist  
+
+> <http://www.dell.com/en-us/work/learn/supportassist-pcs-tablets> |  
+
+> Community Forums  
+
+> <https://www.dell.com/community/Dell-Community/ct-p/English> 
+
+> 
+
+> ** Please use Reply to All when replying to this email ** 
+
+> 
+
+> 
+
+> Hi Nathan, 
+
+> 
+
+> This would be the case number 173052806  . Please reply back to this  
+
+> email with information so emails can be on case. 
+
+> *Thank you for choosing Dell Technologies.* 
+
+> 
+
+> 
+
+> Gemela Kelly 
+
+> Senior Technician, Technical Support 
+
+> Dell Technologies | Pro Support 
+
+> Gemela.Kelly@Dell.com 
+
+> Working Hours: 7am-4pm CST 
+
+> Customer Feedback | How am I doing? Please contact robyn_seippel@dell.com 
+
+> 
+
+> 
+
+> --------------- Original Message --------------- 
+
+> *From:* Nathan Haskell [nathan.haskell@turnkeynet.com] 
+
+> *Sent:* 8/4/2023 2:38 PM 
+
+> *To:* technical_support@help.dell.com 
+
+> *Cc:* gemela.kelly@dell.com 
+
+> *Subject:* Re: Dell Support: SR# 1139054026 from Gemela Kelly | ST:  
+
+> 695TWX3 [ ref:_00D0bGaMp._5006PDvKqU:ref ] 
+
+> 
+
+> [EXTERNAL EMAIL] 
+
+> 
+
+> We would like to exchange the unit.  Where do I find the case number? 
+
+> 
+
+> All I have are 2 different Service request numbers: 
+
+> SR# 1139054026 on this email and 
+
+> SR# 173052806 on the Dell support website 
+
+> Thank you, 
+
+> Nathan 
+
+> 
+
+> Nathan Haskell | Turnkey Financial Hardware Support | Turnkey Computer  
+
+> Systems, LLC. | turnkeynet.com 
+
+> (w) 806.372.1200 | Toll free 1-800-999-0049 | nathan@turnkeynet.com 
+
+> TRUSTED EXPERTISE. UNRIVALED SUPPORT.™ 
+
+> 
+
+> Animal Health International a Patterson Company. 
+
+> 
+
+> On 8/4/2023 1:49 PM, Dell Tech Support wrote: 
+
+> 
+
+> Dell Technologies 
+
+> 
+
+> *Service Request: **1139054026* 
+
+> 
+
+> Contact Us <http://www.dell.com/support/incidents-online/contactus> >  | Support Library  
+
+> <http://www.dell.com/support/Contents/us/en/04/category/Product-Support/Self-support-Knowledgebase> >  | Download Center  
+
+> <http://www.dell.com/support/contents/category/Product-Support/Self-support-Knowledgebase/software-and-downloads> >  | SupportAssist  
+
+> 
+
+                                                     
+
+08/04/23 
+
+08:15 PM 
+
+SR# 173052806 CALL# 00T6P00000NEOAGUAQ 
+
+SFDC# 173052806 
+
+No Contact 
+
+1.    Reason for Exchange: PNA 
+
+•    If PNA part # backlogged: 8PFGW 
+
+2.    Request Type: New possibly asset was only 38 days old when reported issue  
+
+3.    Approved By: Mgr. or EXG Validator (approval code or Mgr. email attached) – what’s the best way to document this via task/email/whatever- R1 Customer is Eligible for a System Exchange. 
+
+4.    Keep Case Ownership: No 
+
+5.    MS Office Product Activated: yes  
+
+6.    Customer Name :Nathan Haskell 
+
+7.    Customer Contact (phone and email): 8063721200 and nathan@turnkeynet.com 
+
+8.    Shipping Address :2505 Lakeview Dr, Ste 100 
+
+79109, Amarillo, TX 
+
+United States 
+
+9.    Direct or Indirect customer :Direct 
+
+10.    Indirect Additional Information :N/A 
+
+•    Partner Details :N/A 
+
+•    Destination Country :United States  
+
+11.    Special Request :N/A 
+
+                                                     
+
+08/07/23 
+
+01:01 PM 
+
+SR# 173052806 CALL# 00T6P00000NFCWOUA2 
+
+SFDC# 173052806 
+
+No Contact 
+
+cx is getting exchange waiting for exchange to take over 
+
+                                                     
+
+08/07/23 
+
+02:08 PM 
+
+SR# 173052806 CALL# A-4YH2WXWK 
+
+SFDC# 173052806 
+
+Exchange 
+
+Solution: 695TWX3 
+
+                                                     
+
+08/07/23 
+
+02:18 PM 
+
+SR# 173052806 CALL# 00T6P00000NEQBGUAS 
+
+SFDC# 173052806 
+
+Customer Outbound 
+
+Additional To: nathan@turnkeynet.com 
+
+CC:  
+
+BCC:  
+
+Attachment: Subject: System exchange | ST: 695TWX3 [ ref:_00D0bGaMp._5006PDvKqU:ref ] 
+
+Body: 
+
+Hello Nathan Haskell, 
+
+Greetings from Dell! 
+
+We are delightful to inform you that we have processed the system exchange on below shipping address and you will be receiving an automated email within 24 to 48 working hours with all the necessary order details. 
+
+Shipping address : 2505 Lakeview Dr, Ste 100 79109, Amarillo, TX United States. 
+
+Thanks & Regards, 
+
+Rajni Batra 
+
+Technician, Tech support Commercial Services Exchange Operations - North America / Canada 
+
+Dell Technologies | CSG Global Exchange Operation 
+
+Work hours - 5:30 pm to 2:30 am IST | 7:00 am to 4:00 pm CST 
+
+--------------- Original Message --------------- 
+
+From: Nathan Haskell [nathan.haskell@turnkeynet.com] 
+
+Sent: 8/5/2023 1:24 AM 
+
+To: technical_support@help.dell.com; nathan.haskell@turnkeynet.com 
+
+Subject: Re: Dell Support: SR# 1139054026 from Gemela Kelly | ST: 695TWX3 [ ref:_00D0bGaMp._5006PDvKqU:ref ] 
+
+[EXTERNAL EMAIL] Requested info for system exchange. 
+
+Thank you, 
+
+Nathan Nathan Haskell | Turnkey Financial Hardware Support | Turnkey Computer Systems, LLC. | turnkeynet.com 
+
+(w) 806.372.1200 | Toll free 1-800-999-0049 | nathan@turnkeynet.com 
+
+TRUSTED EXPERTISE. UNRIVALED SUPPORT.™ 
+
+Animal Health International a Patterson Company. 
+
+On 8/4/2023 2:46 PM, Dell Tech Support wrote: Service Request: 1139054026 
+
+Contact Us | Support Library | Download Center | SupportAssist | Community Forums 
+
+** Please use Reply to All when replying to this email ** 
+
+Hi Nathan, 
+
+This would be the case number 173052806  . Please reply back to this email with information so emails can be on case. 
+
+Thank you for choosing Dell Technologies. 
+
+Gemela Kelly 
+
+Senior Technician, Technical Support 
+
+Dell Technologies | Pro Support 
+
+Gemela.Kelly@Dell.com 
+
+Working Hours: 7am-4pm CST 
+
+Customer Feedback | How am I doing? Please contact robyn_seippel@dell.com 
+
+--------------- Original Message --------------- 
+
+From: Nathan Haskell [nathan.haskell@turnkeynet.com] 
+
+Sent: 8/4/2023 2:38 PM 
+
+To: technical_support@help.dell.com 
+
+Cc: gemela.kelly@dell.com 
+
+Subject: Re: Dell Support: SR# 1139054026 from Gemela Kelly | ST: 695TWX3 [ ref:_00D0bGaMp._5006PDvKqU:ref ] 
+
+[EXTERNAL EMAIL] We would like to exchange the unit.  Where do I find the case number? 
+
+All I have are 2 different Service request numbers: 
+
+SR# 1139054026 on this email and 
+
+SR# 173052806 on the Dell support website Thank you, 
+
+Nathan Nathan Haskell | Turnkey Financial Hardware Support | Turnkey Computer Systems, LLC. | turnkeynet.com 
+
+(w) 806.372.1200 | Toll free 1-800-999-0049 | nathan@turnkeynet.com 
+
+TRUSTED EXPERTISE. UNRIVALED SUPPORT.™ 
+
+Animal Health International a Patterson Company. 
+
+On 8/4/2023 1:49 PM, Dell Tech Support wrote: Service Request: 1139054026 
+
+Contact Us | Support Library | Download Center | SupportAssist | Community Forums 
+
+** Please 
+
+                                                     
+
+08/08/23 
+
+06:53 PM 
+
+SR# 173052806 CALL# 00T6P00000NYZCPUA0 
+
+SFDC# 173052806 
+
+Customer Outbound 
+
+Additional To: nathan@turnkeynet.com 
+
+CC:  
+
+BCC:  
+
+Attachment: Subject: We processed your system exchange [ ref:_00D0bGaMp._5006PDvKqU:ref ] 
+
+Body: 
+
+Your system exchange was processed. Its estimated arrival date is 8/15/2023. Track your order Hello Nathan Haskell, You can track your replacement system online. Replacement system details Order number: 
+
+    724358245 Dispatch number: 
+
+    748772658 Case number: 
+
+    173052806 Original system service tag number: 
+
+    695TWX3 When you receive your replacement system, use the box and provided shipping label to return the original system. You can also generate the return label. Please ship back your original system to Dell within 10 days of receiving your replacement product. By doing so, you’ll maintain continuous access to Dell Technical Support. Thank you for choosing Dell Technologies. Visit our community forum Contact us Privacy Statement Dell Technologies Inc., One Dell Way, Round Rock, Texas 78682 This is an automated email that cannot accept replies. ref:_00D0bGaMp._5006PDvKqU:ref 
+
+                                                     
+
+08/10/23 
+
+07:04 PM 
+
+SR# 173052806 CALL# 00T6P00000NAPTAUAM 
+
+SFDC# 173052806 
+
+Customer Outbound 
+
+Additional To: nathan@turnkeynet.com 
+
+CC:  
+
+BCC:  
+
+Attachment: Subject: [We shipped your replacement system! Track it online [ ref:_00D0bGaMp._5006PDvKqU:ref ] 
+
+Body: 
+
+Your replacement system shipped! Track your order Hello Nathan Haskell, Your replacement system has shipped. View its progress online. Replacement system details Order number: 
+
+    724358245 Dispatch number: 
+
+    748772658 Case Number: 
+
+    173052806 Original Service Tag number: 
+
+    695TWX3 When you receive your replacement system, use the box and provided shipping label to return the original system. You can also generate the return label. Please ship back your original system to Dell within 10 days of receiving your replacement product. By doing so, you’ll maintain continuous access to Dell Technical Support. Thank you for choosing Dell Technologies. Visit our community forum 
+
+    Contact us Privacy Statement Dell Technologies One Dell Way, Round Rock, TX, 78682 This is an automated email that cannot accept replies. ref:_00D0bGaMp._5006PDvKqU:ref 
+
+                                                     
+
+08/11/23 
+
+07:14 PM 
+
+SR# 173052806 CALL# 00T6P00000NWHFNUAA 
+
+SFDC# 173052806 
+
+Chat 
+
+Power and Startup 
+
+                                                     
+
+08/11/23 
+
+07:24 PM 
+
+SR# 173052806 CALL# 00T6P00000O4RZ8UAM 
+
+SFDC# 173052806 
+
+No Contact 
+
+#BeginSolutionLogging 
+
+start_time_utc: 2023-08-11 19:24:44 | 
+
+session_id: 6cd654a1-e915-47f3-a5a3-6c895f176731 | 
+
+language: en | 
+
+asst_id: 695TWX3 | 
+
+Active open case: 173052806 | 
+
+lob_desc: Precision Desktops | 
+
+brand_desc: PRECISION 3460 | 
+
+BKC status: False | 
+
+Symptom Description: ghost call - call disconnected - quick call | 
+
+Keywords: ghost, call, disconnected, quick | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+External ID: NOT-AVAILABLE | 
+
+Next Best Action Recommendations: 
+
+Follow KB Article: Services Lightning Quick Contact Policy And Procedure - Dell Global Policy | 
+
+Feedback: YES | 
+
+Flow Title:  |  
+
+External ID: NOT-AVAILABLE |  
+
+NBA-Link clicked: No |  
+
+Known Resolution Recommended: 177961 | 
+
+end_time_utc: 2023-08-11 19:24:55 | 
+
+#EndSolutionLogging 
+
+                                                     
+
+08/11/23 
+
+07:25 PM 
+
+SR# 173052806 CALL# 00T6P00000NWIM8UAA 
+
+SFDC# 173052806 
+
+No Contact 
+
+Session ID :  19888112 
+
+Name : Nathan 
+
+Issue : defective item return 
+
+**system has pro support warranty - transferred** 
+
+                                                     
+
+08/11/23 
+
+07:56 PM 
+
+SR# 173052806 CALL# 00T6P00000O4SJLUA2 
+
+SFDC# 173052806 
+
+No Contact 
+
+#BeginSolutionLogging 
+
+start_time_utc: 2023-08-11 19:41:26 | 
+
+session_id: 37d3033d-76f0-4428-8cbc-ebfe7feed3d6 | 
+
+language: en | 
+
+asst_id: 695TWX3 | 
+
+Active open case: 173052806 | 
+
+lob_desc: Precision Desktops | 
+
+brand_desc: PRECISION 3460 | 
+
+BKC status: False | 
+
+Symptom Description: system return | 
+
+Keywords: system, return | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+External ID: NOT-AVAILABLE | 
+
+Next Best Action Recommendations: 
+
+Non NBA: A Known Resolution Might Apply- Finding Dell’S Data Security And Handling Policy For Returned Faulty Hard Drive And Storage Devices After Service Calls | 
+
+Feedback: NO | 
+
+Flow Title:  |  
+
+External ID: NOT-AVAILABLE |  
+
+NBA-Link clicked: No |  
+
+Known Resolution Recommended: 177961 | 
+
+Symptom Description: Customer refund and return policy | 
+
+Keywords: refund, return, policy | 
+
+Paused Flow Exist: No | 
+
+Paused Flow Selected: No | 
+
+External ID: NOT-AVAILABLE | 
+
+Next Best Action Recommendations: 
+
+Follow KB Article: Dell Return Policy - Dell Global Policy (Client Support) | 
+
+Feedback: YES | 
+
+Flow Title:  |  
+
+External ID: NOT-AVAILABLE |  
+
+NBA-Link clicked: Yes |  
+
+Known Resolution Recommended: 177961 | 
+
+------------------------------------------- 
+
+Internal notes:  
+
+Issue Description: 
+
+• Return inquiry 
+
+Troubleshoot & outcome: 
+
+•the cx wanted to know if they can keep the HDD to recover the data since is taking longer 
+
+•approved by the manager the option to send the HDD later separate  
+
+•the cx mentioned no extra time is needed  
+
+_____________________________________________________ 
+
+• DTC log/Outcome: no further assistance is needed 
+
+------------------------------------------- 
+
+end_time_utc: 2023-08-11 19:56:41 | 
+
+#EndSolutionLogging 
+
+                                                     
+
+08/04/23 
+
+08:16 PM 
+
+SR# 173397605 CALL# 00T6P00000NEOGVUAI 
+
+SFDC# 173397605 
+
+No Contact 
+
+1.    Reason for Exchange: PNA 
+
+•    If PNA part # backlogged: 8PFGW 
+
+2.    Request Type: New possibly asset was only 38 days old when reported issue  
+
+3.    Approved By: Mgr. or EXG Validator (approval code or Mgr. email attached) – what’s the best way to document this via task/email/whatever- R1 Customer is Eligible for a System Exchange. 
+
+4.    Keep Case Ownership: No 
+
+5.    MS Office Product Activated: yes  
+
+6.    Customer Name :Nathan Haskell 
+
+7.    Customer Contact (phone and email): 8063721200 and nathan@turnkeynet.com 
+
+8.    Shipping Address :2505 Lakeview Dr, Ste 100 
+
+79109, Amarillo, TX 
+
+United States 
+
+9.    Direct or Indirect customer :Direct 
+
+10.    Indirect Additional Information :N/A 
+
+•    Partner Details :N/A 
+
+•    Destination Country :United States  
+
+11.    Special Request :N/A 
+
+                                                     
+
+PPIDs 23 Click to Toggle -- or -- Drag & Drop to reorder  
+
+Part #    Commodity    Part Description    PPID    Date Code    Country Code    Vendor Code    Serial Num    Rev Level 
+
+V21PX    Antenna    ANT,INTERNAL,SFF,D12    CN0V21PXHOC0033332B2    03/03/2023 (333)    CN    HOC00    32B2    A00 
+
+RPJWR    Bezel    ASSY,BZL,FRT,3460    CN0RPJWRFCW0034C00GQ    04/12/2023 (34C)    CN    FCW00    00GQ    A00 
+
+140HW    Cable    ASSY,CBL,ODD,SATA,220MM,SFF,KT    CN0140HWLXG003390B41    03/09/2023 (339)    CN    LXG00    0B41    A00 
+
+3RJ7W    Cable    ASSY,CBL,CNTL,SWT,MT/SFF,D12    CN03RJ7WAP20031B1RN0    01/11/2023 (31B)    CN    AP200    1RN0    A00 
+
+PX7DC    Cable    ASSY,CBL,ODD,HD,PWR,SFF,D12    CN0PX7DCLXG0032BA6EB    02/11/2023 (32B)    CN    LXG00    A6EB    A00 
+
+WH8WF    Cable    ASSY,CBL,1ST,SATA,230MM,SFF,KT    CN0WH8WFLXG0032800PN    02/08/2023 (328)    CN    LXG00    00PN    A00 
+
+XV49J    Chassis    ASSY,CHAS,L5+,3460,300,RPL,DAO    CN0XV49JFCW0034D022N    04/13/2023 (34D)    CN    FCW00    022N    A00 
+
+N8RCT    Controller Card    ASSY,CRD,PORT,VGA,D9MFF    CN0N8RCTMJX0032DM3N9    02/13/2023 (32D)    CN    MJX00    M3N9    A00 
+
+YP7RW    Cover    ASSY,CVR,RMVBL,3440    CN0YP7RWFCW0034D81HZ    04/13/2023 (34D)    CN    FCW00    81HZ    A00 
+
+M3TJT    Hard Drive    SSDR,256G,P44,30S3,SSSTC,CL4    TW0M3TJT9DH0032G031M    02/16/2023 (32G)    TW    9DH00    031M    A01 
+
+M3TJT    Hard Drive    SSDR,256G,P44,30S3,SSSTC,CL4    TW0M3TJT9DH0032G02VW    02/16/2023 (32G)    TW    9DH00    02VW    A01 
+
+48J9V    Heatsink    ASSY,HTSNK,FAN,SFF,PRFMC,D12    CN048J9V08K0032I00LC    02/18/2023 (32I)    CN    08K00    00LC    A00 
+
+006HY    Keyboard    KIT,KYBD,104,US,KB216-B,P,WW    CN0006HYPRC0033GA482    03/16/2023 (33G)    CN    PRC00    A482    A01 
+
+640N4    Label (Regulatory)    LBL,REG,WRLES,AX211,WW    MX0640N4C5M0036GJ0TM    06/16/2023 (36G)    MX    C5M00    J0TM    A01 
+
+6WWWG    Label (Regulatory)    LBL,REG,FSJ,260/300W,3460,V2    MX06WWWGC5M0036LA28K    06/21/2023 (36L)    MX    C5M00    A28K    A00 
+
+RCPYF    Motherboard    PWA,PLN,MB,TPM,3460,RPL,DAO    MX0RCPYFFC600359014S    05/09/2023 (359)    MX    FC600    014S    A01 
+
+4V6P2    Pad    PAD,THRM,30X20X5.25,SFF,D12    CN04V6P233K00319043P    01/09/2023 (319)    CN    33K00    043P    A00 
+
+4V6P2    Pad    PAD,THRM,30X20X5.25,SFF,D12    CN04V6P233K003190436    01/09/2023 (319)    CN    33K00    0436    A00 
+
+5120P    Power Cord    CORD,PWR,125V,6FT,SPT2,UNSHLD    CN05120PLWS0033R04AB    03/27/2023 (33R)    CN    LWS00    04AB    A06 
+
+CNHDM    Power Supply    PWR SPLY,300W,PLT,D13,SFFM,LTN    CN0CNHDMLOG0032L04DI    02/21/2023 (32L)    CN    LOG00    04DI    A01 
+
+Y19RJ    Speaker    ASSY,SPKR,MT/SFF,D10/P10    CN0Y19RJSEC0033606ZR    03/06/2023 (336)    CN    SEC00    06ZR    A00 
+
+1V4V8    Switch    SWT,PB,NTRSN,SFF,D12    CN01V4V8MJC0032DM3WH    02/13/2023 (32D)    CN    MJC00    M3WH    A00 
+
+G83J7    Wireless Card    CRD,WRLES,M.2,INTEL,AX211,WW    TW0G83J7G2HIT35O0FPR    05/24/2023 (35O)    TW    G2HIT    0FPR    A00 
+
+DIMM SPD Data 1 Click to Toggle -- or -- Drag & Drop to reorder  
+
+Dimm Location    Vendor    Vendor PN    Date Code    MFG Loc 
+
+DIMM1    Hynix    HMCG78AEBSA095N    2242    01 
+
+Service Tag Components 137 Click to Toggle -- or -- Drag & Drop to reorder  
+
+Commodity    Qty    SKU    Mod    Part 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    CR67F SRV,DRVR,CS,INTEL,PWS,3460 
+
+PURGED INFO PARTS    1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    H82C5 INFO,HASH,ENABLE,VERIFY,RGD 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    1FV2J SRV,APP,TYPEC,3460 
+
+PURGED INFO PARTS    1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    8564U INFO,SW,DEFAULT,NTFS 
+
+INFORMATION ONLY    1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    7RXM1 INFO,ESP-ADDR,100 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    WXM2C SRV,BIOS RECOVERY 2 
+
+PURGED INFO PARTS    1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    XPRGW INFO,UEFI-CL3 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    NTYW0 LBL,SVC TAG,BLANK,AQ,DT/NB 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    055J8 SRV,DRVR,HID,INTEL,3460 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    N8PW7 INFO,SWSI,DT,STD,PWS,3460 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    TWY6V SRV,OS,DISABLEPEP,PPKG 
+
+PURGED INFO PARTS    1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    J8PH2 INFO,CHAIN,CUSTODY 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    5XG5H INFO,LBL,PKG,POD,UKCA 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    81HXT SRV,SW,MS,RMTDT 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    0KXGV SRV,DRVR,LINUX,KYOTO P SFF 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    2N08Y SRV,SW,AUD,RLTK,PWS,3460 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    XP9T9 INFO,BOOT,CNTNR,GPT 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    TC45P SRV,WALLPAPER,PRECISION,DT2021 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    M22FD SRV,DRVR,INTEL,LOM,PWS,3460 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    HDHP5 SRV,DRVR,SERIAL IO,PWS,3460 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    57154 Service Charge,Software, Windows 98,Fully Integrated System Test 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    1HHG5 SRV,APP,IGFX,DCH,PWS,3460 
+
+PURGED INFO PARTS    1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    4P9FX INFO,HASH,BIOS 
+
+INSTRUCTIONS    1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    T845M INSTR,TRIG,SVC TAG 
+
+INFORMATION ONLY    1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    G05NM INFO,ADVANCED,FPWS 
+
+PURGED INFO PARTS    1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    83F5D INFO,IRST,META-PTN,5M 
+
+INFORMATION ONLY    1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    0GX0T INFO,RYLTY,INSYDE,AGS,BIOS,DT 
+
+PURGED INFO PARTS    1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    4564U Information,Software,Default, Fat 32 
+
+INFORMATION ONLY    1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    74FPM INFO,MEM,OPTIMIZED 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    N9NJT SRV,DRVR,INTEL,IPF,3460 
+
+1    210-BCTU Precision 3460 SFF CTO BASE    4DYRX    HP6JJ INFO,WIN,ADCNTDSTBY,ACMODE 
+
+PURGED INFO PARTS    1    658-BFNE Additional Software Win 11    4P84D    9WV3G INFO,.NET@V,35000,SP1 
+
+1    340-CYUT Quick Setup Guide, Precision 3460    M2R2R    Y15Y0 PLCMT,QSG,PRECISION,3460SFF,WW 
+
+1    340-CQYR Shipping Material    J0JJK    3CV45 SHP MTL,ACC,BOX,475X376X70,WW 
+
+1    555-BHPO WLAN Intel AX211 wireless card driver    DH5RF    HC6JG SRV,DRVR,WRLES,M.2,AX211,KT-P 
+
+1    340-ACBY Dell Precision TPM    80PHW    TR2C9 INFO,RYLTY,SI,TPM-MIDDLEWARE 
+
+1    401-ACFG 256GB PCIe NVMe Class 35 Solid State Drive    0859W    00160 INFO,ADD BOOT HARD DRIVE 
+
+1    631-ADHJ Intel Management Engine with vPro    543X7    F2FK6 SRV,SW,ME16P0MB,KYOTO 
+
+INFORMATION ONLY    1    631-ADHJ Intel Management Engine with vPro    543X7    VY54T INFO,MGMT,INTEL,VPRO 
+
+1    658-BFNE Additional Software Win 11    5RV03    0GRTY SRV,SW,EXCAL,WIN-CMPNT,CMRCL 
+
+SERVICE INSTALL    1    619-AQCE Windows 11 Pro, English, French, Spanish    247K3    5R4X8 SRV,SW,JUMPSTART,W11 
+
+1    340-CQYR Shipping Material    J0JJK    655CC SHP MTL,BAG,KTSK 
+
+1    387-BBLW ENERGY STAR Qualified    P1VMW    07HF9 SRV,DRVR,ESTR,XLOB 
+
+INFORMATION ONLY    1    528-CHEC VMware Carbon Black Endpoint Standard, NGAV B-EDR with Pro Support 1 Year    212P2    7T47D INFO,RYLTY,CBNGAVEDR,OTB,1YR 
+
+1    340-CQYR Shipping Material    J0JJK    YR3DF SHP MTL,RSC,487X394X264,BB 
+
+PURGED INFO PARTS    1    619-AQCE Windows 11 Pro, English, French, Spanish    R9F5W    X0601 INFO,BYPS,UPTN 
+
+1    658-BFNE Additional Software Win 11    7N05M    8XHX9 SRV,DRVR,DELL,TIMER,D12/P12 
+
+1    555-BHHG Internal Wi-Fi Antenna    HC52W    VHTM2 BRKT,FOR M2 WIFI ANTENNA,D12 
+
+1    619-AQCE Windows 11 Pro, English, French, Spanish    DYXFR    85MR7 LBL,GML,MS,OS,WINDOWS11 
+
+SERVICE INSTALL    1    619-AQCE Windows 11 Pro, English, French, Spanish    247K3    NGC17 SRV,WINDOWS,REG,PWR 
+
+1    658-BFNE Additional Software Win 11    7N05M    V315M SRV,APP,WDT,UWP,D12/P12 
+
+1    389-EDDS Intel Core i9 vPro Enterprise Processor Label    W1V15    8GP4H LBL,INTEL,CI9VPRO,12,MICRO 
+
+PURGED INFO PARTS    1    619-AQCE Windows 11 Pro, English, French, Spanish    R9F5W    0616F INFO,BOOT,GPT,OVERRIDE 
+
+1    619-AQCE Windows 11 Pro, English, French, Spanish    247K3    16F8V INFO,RYLTY,W11,DOLBY51,CODEC 
+
+PURGED INFO PARTS    1    619-AQCE Windows 11 Pro, English, French, Spanish    R9F5W    C858J INFO,XTRA-LANG@V,SPN 
+
+1    658-BFNE Additional Software Win 11    4DTGX    44M13 INFO,.NET@V,60000,WINDOWS 
+
+1    658-BFNE Additional Software Win 11    P4V68    44M13 INFO,.NET@V,60000,WINDOWS 
+
+1    658-BFNE Additional Software Win 11    P6XPR    YR2T2 SRV,SW,CRRS,MUI 
+
+PURGED INFO PARTS    1    619-AQCE Windows 11 Pro, English, French, Spanish    R9F5W    G424J INFO,XTRA-LANG@V,FR 
+
+INFORMATION ONLY    1    400-BNBY M.2 256GB PCIe NVMe Class 35 Solid State Drive    DCRD3    2HMFM INFO,C DRIVE,PCIESSD 
+
+1    631-ADHJ Intel Management Engine with vPro    543X7    W563W INFO,RYLTY,VPRO/ME,KYOTO 
+
+1    321-BJHY Precision 3460 SFF with 300W (80 Plus Platinum) PSU, RPL and ADL Compatible    X71D2    2K55V INFO,PRC,RPL,D13 
+
+1    619-AQCE Windows 11 Pro, English, French, Spanish    R9F5W    YHMFR SRV,OS,W11,MUI,E/F/S 
+
+PURGED INFO PARTS    1    658-BFNE Additional Software Win 11    P6XPR    C2N45 INFO,SW,CRRS,UPDATE 
+
+1    619-AQCE Windows 11 Pro, English, French, Spanish    R9F5W    J471G SRV,OS,MUI,INSTALLER 
+
+PANEL - FILLER    1    429-ABKR No Optical Drive    480WN    V72JX PNL,FILLER,9.5MM,ODD,SFF,D10/P 
+
+1    338-CKHV 13th Generation Intel Core i9-13900 (36MB Cache, 24 Core (8+16), 2.0GHz to 5.6GHz (65W)) TDP    XY9FF    5XYPY PRC,RPLS,I9-13900,2.0,65,816 
+
+1    619-AQCE Windows 11 Pro, English, French, Spanish    247K3    1WMF4 SRV,OS,DOTNET,INSTALLER,WIN 
+
+1    658-BFNE Additional Software Win 11    C63XX    KHPT4 INFO,RYLTY,PRRT,PRMR-CLR,6.0DT 
+
+1    658-BFNE Additional Software Win 11    4DTGX    NRGNR SRV,SW,APP,STD,DO 
+
+PURGED INFO PARTS    1    389-BDCE No UPC Label    KHCK5    W21JJ INFO,GNRC,OEM,TRACKING,PN 
+
+PURGED INFO PARTS    1    340-CKSZ No AutoPilot    KHCK5    W21JJ INFO,GNRC,OEM,TRACKING,PN 
+
+PURGED INFO PARTS    1    379-BBCY No Additional Cable    KHCK5    W21JJ INFO,GNRC,OEM,TRACKING,PN 
+
+PURGED INFO PARTS    1    817-BBBC Not selected in this configuration    KHCK5    W21JJ INFO,GNRC,OEM,TRACKING,PN 
+
+PURGED INFO PARTS    1    400-AKZR No Hard Drive    KHCK5    W21JJ INFO,GNRC,OEM,TRACKING,PN 
+
+PURGED INFO PARTS    1    817-BBBB Custom Configuration    KHCK5    W21JJ INFO,GNRC,OEM,TRACKING,PN 
+
+PURGED INFO PARTS    1    555-BBJO No Additional Network Card Selected (Integrated NIC included)    KHCK5    W21JJ INFO,GNRC,OEM,TRACKING,PN 
+
+PURGED INFO PARTS    1    575-BBCH No Stand included    KHCK5    W21JJ INFO,GNRC,OEM,TRACKING,PN 
+
+SCREW    2    555-BHHG Internal Wi-Fi Antenna    HC52W    N95VK Screw,M3X3MM,Phillips Head,Flat Head,BLACK,DF 
+
+1    658-BCSB No Microsoft Office License Included    MTYW0    7M1KY SRV,SW,OFFICE,OPK 
+
+1    658-BFNE Additional Software Win 11    4P84D    CPWK1 SRV,SW,DCU,APP,UWP 
+
+1    619-AQCE Windows 11 Pro, English, French, Spanish    R9F5W    V253X INFO,WINDOWS,11 
+
+1    619-AQCE Windows 11 Pro, English, French, Spanish    247K3    V253X INFO,WINDOWS,11 
+
+1    555-BHPO WLAN Intel AX211 wireless card driver    DH5RF    DVYJ6 SRV,HTML,WRLES,INTEL,AX211 
+
+PURGED INFO PARTS    1    658-BFNE Additional Software Win 11    7N05M    DPPRC INFO,WDT-ON,7040/5040/3040 
+
+1    619-AQCE Windows 11 Pro, English, French, Spanish    R9F5W    XP9T9 INFO,BOOT,CNTNR,GPT 
+
+1    619-AQCE Windows 11 Pro, English, French, Spanish    1KNJY    T1VFV DPK,W11,PRO,PLUS 
+
+1    325-BELO Dust Protector - 3460 SFF    5C13H    2TFYY ASSY,BZL,DUSTFILTER,3460 
+
+NUT    2    321-BJHY Precision 3460 SFF with 300W (80 Plus Platinum) PSU, RPL and ADL Compatible    X71D2    81CF9 NUT,M2,CRD,SFF,D10/P10 
+
+PURGED INFO PARTS    1    340-CBUU SHIP,PWS,LNK,NO,NO,AMF    P969P    149DF INFO,PREP MTL,DEV,PWS,INCRS,#2 
+
+SCREW    5    321-BJHY Precision 3460 SFF with 300W (80 Plus Platinum) PSU, RPL and ADL Compatible    X71D2    3DGWW SCR,6-32X1/4,HX,TF,ZPS,TRI-PT2 
+
+INFORMATION ONLY    1    780-BCKJ RAID 1 for M.2 NVMe SSD    NRCDF    6VKH8 INFO,RAIDONMB,M.2,RAID 1 
+
+1    409-BCWM Intel Rapid Storage Technology Driver, Precision 3460    8TJJ2    WJC31 SRV,DRVR/APP,INTEL,IRST,3460 
+
+SERVICE INSTALL    1    619-AQCE Windows 11 Pro, English, French, Spanish    R9F5W    T2673 Service Charge,Operating System,Windows XP OCA-MARKER 
+
+1    658-BFNE Additional Software Win 11    5RV03    G08KV SRV,SW,EXCAL-SOS/DDRE,BASE,CMR 
+
+1    658-BFNE Additional Software Win 11    C63XX    6TKY1 SRV,SW,PREMIER,COLOR,FY24FEB 
+
+DPK,HWFI NO KEY    1    528-CHEC VMware Carbon Black Endpoint Standard, NGAV B-EDR with Pro Support 1 Year    212P2    WCYC7 DPK,HFINK,CARBONBLACK,OTB 
+
+1    570-ABIE Dell Optical Mouse - MS116 (Black)    C1GGN    DMV3P KIT,MSE,USB,PE,MS116B,CHI,EP 
+
+LABEL (STANDARD)    1    340-CBUU SHIP,PWS,LNK,NO,NO,AMF    P969P    23501 LBL,BRCD,SYS BOX,GNRC 
+
+1    400-BNBY M.2 256GB PCIe NVMe Class 35 Solid State Drive    DCRD3    FWJTG SSDR,256G,P34,30S3,TOSHIBA,BG4 
+
+PURGED INFO PARTS    1    650-AAAM No Anti-Virus Software    N3PC0    T5D0W INFO,NO ANTI-VIRUS SW 
+
+1    658-BCSB No Microsoft Office License Included    MTYW0    HR8X9 INFO,WINRE-ADDR,3,GB-PTN 
+
+1    340-AGIK SERI Guide (ENG/FR/Multi)    7DDKD    WH67C GDE,PROD,MUI,SERI,DAO 
+
+1    370-AGXN 16GB (1x16GB) DDR5 4800MHz, SO-DIMM, Non-ECC    92TJH    VNY72 DIMM,16GB,4800,1RX8,16,DDR5,NS 
+
+INFORMATION ONLY    1    619-AQCE Windows 11 Pro, English, French, Spanish    417KX    GMFF7 INFO,WIN,PRO 
+
+1    658-BFNE Additional Software Win 11    P4V68    334CH SRV,SW,APP,SACLIENT 
+
+PURGED INFO PARTS    1    658-BFNE Additional Software Win 11    V2M1P    M3C3H INFO,RYLTY,WAVES-MAXX,AUD,PRO 
+
+SCREW    2    412-AAZZ Thermal Pad for 3460 SFF SSD    02WHM    6JPHH Screw,M2X3.5,WIFI/SSD/DDPE,DF 
+
+SCREW    1    555-BHHG Internal Wi-Fi Antenna    HC52W    6JPHH Screw,M2X3.5,WIFI/SSD/DDPE,DF 
+
+PURGED INFO PARTS    1    403-BBCE Integrated Intel SATA Controller    Y698R    Y699R INFO,INTG,INTEL,CS,SATA,CTL 
+
+SERVICE INSTALL    1    658-BFNE Additional Software Win 11    4P84D    GFGV0 SRV,SW,DCU,APP 
+
+PURGED INFO PARTS    1    340-CBUU SHIP,PWS,LNK,NO,NO,AMF    P969P    702EX INFO,PREP MTL,DEV,PWS,INCRS,#1 
+
+1    658-BFNE Additional Software Win 11    4DTGX    FXDNV INFO,RYLTY,INTEL,ICPS 
+
+ASSY,SHIELD    1    429-ABKR No Optical Drive    480WN    VPX5R ASSY,SHLD,ODD,SLIM,SFF,D10 
+
+1    555-BHPO WLAN Intel AX211 wireless card driver    DH5RF    1W4XK SRV,DRVR,WRLES,BT,AX211,KT-P 
+
+2    340-CQYR Shipping Material    J0JJK    0662H SHP MTL,CSHN,MPP,TOP,BTM,SFF 
+
+PURGED INFO PARTS    1    619-AQCE Windows 11 Pro, English, French, Spanish    R9F5W    G174J INFO,XTRA-LANG@V,ENG 
+
+INFORMATION ONLY    1    449-BBYR C1 SSD Boot + SSD    RR4JM    864KE Information,PLACEHOLDER PIECE-PART 
+
+INFORMATION ONLY    1    490-BBBS Intel Integrated Graphics only    T00PH    864KE Information,PLACEHOLDER PIECE-PART 
+
+INFORMATION ONLY    1    379-BDZB EPEAT 2018 Registered (Gold)    29WKG    864KE Information,PLACEHOLDER PIECE-PART 
+
+INFORMATION ONLY    1    385-BBBL No Media Card Reader    DN5Y9    864KE Information,PLACEHOLDER PIECE-PART 
+
+INFORMATION ONLY    1    632-BBBJ CMS Software not included    GRNM1    864KE Information,PLACEHOLDER PIECE-PART 
+
+INFORMATION ONLY    1    620-AALW OS-Windows Media Not Included    MX962    864KE Information,PLACEHOLDER PIECE-PART 
+
+1    401-ACFG 256GB PCIe NVMe Class 35 Solid State Drive    0859W    M3TJT SSDR,256G,P44,30S3,SSSTC,CL4 
+
+ANTENNA    1    555-BHHG Internal Wi-Fi Antenna    HC52W    V21PX ANT,INTERNAL,SFF,D12 
+
+1    555-BHHI Intel Wi-Fi 6E (6GHz) AX211 2x2 Bluetooth 5.2 Wireless Card    0R3FY    G83J7 CRD,WRLES,M.2,INTEL,AX211,WW 
+
+1    321-BJHY Precision 3460 SFF with 300W (80 Plus Platinum) PSU, RPL and ADL Compatible    X71D2    RCPYF PWA,PLN,MB,TPM,3460,RPL,DAO 
+
+1    382-BBFW Optional VGA Port    81G1X    N8RCT Assembly,Card,Input/Output,Video Graphics Adapter,D9MFF 
+
+1    555-BHHI Intel Wi-Fi 6E (6GHz) AX211 2x2 Bluetooth 5.2 Wireless Card    0R3FY    640N4 LBL,REG,WRLES,AX211,WW 
+
+1    321-BJHY Precision 3460 SFF with 300W (80 Plus Platinum) PSU, RPL and ADL Compatible    X71D2    XV49J ASSY,CHAS,L5+,3460,300,RPL,DAO 
+
+1    580-ADJC Dell KB216 Wired Keyboard English    7XK29    006HY KIT,KYBD,104,US,KB216-B,P,WW 
+
+PAD    1    412-AAZZ Thermal Pad for 3460 SFF SSD    02WHM    4V6P2 PAD,THRM,30X20X5.25,SFF,D12 
+
+PAD    1    412-AAZZ Thermal Pad for 3460 SFF SSD    02WHM    4V6P2 PAD,THRM,30X20X5.25,SFF,D12 
+
+1    450-AHDU System Power Cord C13 (US 125V, 15A)    N971H    5120P CORD,PWR,125V,6FT,SPT2,UNSHLD 
+
+1    520-AARD Internal Speaker    NKR5X    Y19RJ ASSY,SPKR,MT/SFF,D10/P10 
+
+1    389-ECXZ Precision 3460 Plat Reg Label DAO    JYJFX    6WWWG LBL,REG,FSJ,260/300W,3460,V2 
+
+1    412-AAZQ HEATSINK for 65W CPU    KGDWJ    48J9V ASSY,HTSNK,FAN,SFF,PRFMC,D12 
+
+No Order Details Data Drag & Drop to reorder  
+
+Non PPID Data 5 Click to Toggle -- or -- Drag & Drop to reorder  
+
+Part #    Commodity    NON-PPID Data Value    Part Description    Part Type    Non PPID Type    Part Code    Vendor    Vendor Part# 
+
+CN0XV49JFCW0034D022N        precision_3260_3460_2.3.1.map:f8bf243fd4195d4f27ac7871b4f2dc73b5491802e48d45ebf4e8793f132e5f89            HASH    BIOS         
+
+VNY72    Memory    DIMM1,16384,4800,Hynix,HMCG78AEBSA095N,96C757DD,2242,01,Hynix,0000,00,,    DIMM,16GB,4800,1RX8,16,DDR5,NS    DIMM    DPN    Memory    Hynix    HMCG78AEBSA095N 
+
+RCPYF    Motherboard    48AD9A0AEDC6    PWA,PLN,MB,TPM,3460,RPL,DAO    PWA Planar    RADIO    MAC_ADDR         
+
+RCPYF    Motherboard    C45AB1E677DB    PWA,PLN,MB,TPM,3460,RPL,DAO    PWA Planar    DPN    LOMO_MAC_A         
+
+RCPYF    Motherboard    48AD9A0AEDCA    PWA,PLN,MB,TPM,3460,RPL,DAO    PWA Planar    RADIO    BD_ADDR         
+
+No Related Orders Data Drag & Drop to reorder  
+
+Search Results 
+
+0 Entitlements 
+
+27 Call Text 
+
+23 PPIDS 
+
+1 DIMM SPD Data 
+
+137 Service Tag Components 
+
+0 Order Details 
+
+5 Non PPID Data 
+
+0 Related Order Data 
+
+Show Sorting Toolips 
+
+© 2023 - Internal Use Only 
+
+Quality Data and Tools Team - Austin, TX  
