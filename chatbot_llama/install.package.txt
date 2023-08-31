@@ -1,0 +1,6 @@
+!pip -q install langchain
+!pip -q install bitsandbytes accelerate xformers einops
+!pip -q install datasets loralib sentencepiece
+!pip -q install pypdf pdf2image pdfminer pdfminer.six
+!pip -q install sentence_transformers
+!pip -q install chromadb
