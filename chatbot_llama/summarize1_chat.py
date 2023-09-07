@@ -18,8 +18,25 @@ input_filepath = "./data/calltext/dps748700319.txt"
 with open(input_filepath, 'r', encoding='utf-8') as f:
     text = f.read()
 
-template = """summarize problem or issues from the following text
-{text}"""
+
+template1 = """summarize problem or issues from Context with two sentences.
+Context:```{text}```"""
+
+template = """summarize problem or issues from Context .
+### summary examples ###
+Example 1:
+Type: Software
+Problem: The software is not working.
+Solution: Reinstall the software.
+
+Example 2:
+Type: Hardware
+Problem: The hardware is not working.
+Solution: Replace the hardware.
+
+### Context ###
+Context:```{text}```"""
+
 prompt = PromptTemplate(template=template, input_variables=["text"])
 
 repo_id = "meta-llama/Llama-2-7b-chat-hf"
