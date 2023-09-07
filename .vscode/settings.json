@@ -14,7 +14,8 @@
     "**/.project": true,
     "**/.settings": true,
     "**/.factorypath": true,
-    "db": false
+    "db": false,
+    "**/__pycache__": true
   },
   "explorerExclude.backup": {}
 }
