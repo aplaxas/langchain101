@@ -10,6 +10,9 @@ from dotenv import load_dotenv
 os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
 os.environ['ASSISTANT_ID'] = st.secrets['ASSISTANT_ID']
 
+print(os.environ['OPENAI_API_KEY'])
+print(os.environ['ASSISTANT_ID'])
+
 # Initialize the OpenAI client (ensure to set your API key in the sidebar within the app)
 client = openai
 
