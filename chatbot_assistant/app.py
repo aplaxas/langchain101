@@ -25,7 +25,7 @@ if "thread_id" not in st.session_state:
 
 # Set up the Streamlit page with a title and icon
 st.set_page_config(page_title="ESG GRI Advisor", page_icon=":moneybag:", layout="wide")
-st.header(":moneybag: Smart Investment Advisor")
+st.header(":moneybag: ESG GRI Advisor")
 
 #Get the OPENAI API Key
 openai_api_key_env = os.environ['OPENAI_API_KEY']
