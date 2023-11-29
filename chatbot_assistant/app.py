@@ -15,6 +15,7 @@ client = openai(
     api_key='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',
 )
 
+
 # Initialize session state variables for file IDs and chat control
 if "file_id_list" not in st.session_state:
     st.session_state.file_id_list = []
