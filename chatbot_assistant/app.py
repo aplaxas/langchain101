@@ -5,10 +5,10 @@ import time
 import os
 import json
 from dotenv import load_dotenv
-load_dotenv()
+# load_dotenv()
 
 # Set your OpenAI Assistant ID here
-assistant_id = os.getenv('ASSISTANT_ID')
+assistant_id = 'asst_eEyOliJvBPuwW13QfBaVeFaI'  #os.getenv('ASSISTANT_ID')
 
 # Initialize the OpenAI client (ensure to set your API key in the sidebar within the app)
 client = openai
@@ -28,7 +28,7 @@ st.set_page_config(page_title="ESG GRI Advisor", page_icon=":moneybag:", layout=
 st.header(":moneybag: Smart Investment Advisor")
 
 #Get the OPENAI API Key
-openai_api_key_env = os.getenv('OPENAI_API_KEY')
+openai_api_key_env = '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' # os.getenv('OPENAI_API_KEY')
 openai_api_key = st.sidebar.text_input(
     'OpenAI API Key', placeholder='sk-', value=openai_api_key_env)
 url = "https://platform.openai.com/account/api-keys"
