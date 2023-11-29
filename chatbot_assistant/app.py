@@ -10,9 +10,6 @@ from dotenv import load_dotenv
 os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
 os.environ['ASSISTANT_ID'] = st.secrets['ASSISTANT_ID']
 
-print(os.environ['OPENAI_API_KEY'])
-print(os.environ['ASSISTANT_ID'])
-
 # Initialize the OpenAI client (ensure to set your API key in the sidebar within the app)
 client = openai
 
@@ -80,7 +77,7 @@ if st.session_state.start_chat:
         # Create a run with additional instructions
         run = client.beta.threads.runs.create(
             thread_id=st.session_state.thread_id,
-            assistant_id=assistant_id,
+            assistant_id=os.environ['ASSISTANT_ID'],
             instructions="Please answer the queries using the knowledge provided in the files.When adding other information mark it clearly as such.with a different color"
         )
 
