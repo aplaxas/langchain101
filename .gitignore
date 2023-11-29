@@ -7,3 +7,6 @@ data/*.*
 
 api_key.txt
 .env
+
+# Ignore all .toml files
+**/*.toml
