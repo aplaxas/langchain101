@@ -11,7 +11,9 @@ from dotenv import load_dotenv
 assistant_id = 'asst_eEyOliJvBPuwW13QfBaVeFaI'  #os.getenv('ASSISTANT_ID')
 
 # Initialize the OpenAI client (ensure to set your API key in the sidebar within the app)
-client = openai
+client = openai(
+    api_key='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',
+)
 
 # Initialize session state variables for file IDs and chat control
 if "file_id_list" not in st.session_state:
